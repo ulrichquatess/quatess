@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/shortcode-ultimate.css" type="text/css"?>
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/font-awesome.min.css" type="text/css"?>
+<?xml-stylesheet href="https://bdthemes.net/demo/joomla/framed/templates/framed/css/shortcodes.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Features</title>
+		<description><![CDATA[Framed Joomla Template is a high quality, simple, flat and clean template which build by Warp 7 Framework, also used lots of CSS3 effect with all modern browser supported.  You can use this template to different website, because it’s have live customizer with lots of admin customization features, so your website must be unique design. You can use this template for any kind of portfolio site, company, software firm, blog, personal website and more as you like…]]></description>
+		<link>https://bdthemes.net/demo/joomla/framed/index.php/features/35-post-grid</link>
+		<lastBuildDate>Mon, 02 Apr 2018 22:01:30 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://bdthemes.net/demo/joomla/framed/index.php/features/35-post-grid?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>demo@bdthemes.com (Framed Joomla Template)</managingEditor>
+		<item>
+			<title>Blog Column 3</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/blog/blog-column-3</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/blog/blog-column-3</guid>
+			<description><![CDATA[[post_grid source="k2-category: 11,12,13,14,15," limit="9" show_more="yes" show_more_item="3" order="title" loading_animation="fadeIn" filter_animation="slideLeft" caption_style="overlayRightAlong" filter_style="3" large="3" thumb_height="420"]]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>post grid</category>
+			<pubDate>Sun, 20 Sep 2015 15:58:43 +0000</pubDate>
+		</item>
+		<item>
+			<title>Blog Column 6</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/blog/blog-column-6</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/blog/blog-column-6</guid>
+			<description><![CDATA[[section force_fullwidth="yes"]
+[post_grid source="k2-category: 11,12,13,14,15," limit="12" show_more="yes" show_more_item="6" order="title" loading_animation="bottomToTop" filter_animation="unfold" caption_style="opacity" filter_style="9" filter_align="right" large="6"]
+[/section]]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>post grid</category>
+			<pubDate>Sun, 20 Sep 2015 15:58:02 +0000</pubDate>
+		</item>
+		<item>
+			<title>Blog Column 5</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/blog/blog-column-5</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/blog/blog-column-5</guid>
+			<description><![CDATA[[section force_fullwidth="yes"]
+	[post_grid source="k2-category: 11,12,13,14,15" limit="10" show_more="yes" show_more_item="5" order="title" loading_animation="sequentially" filter_animation="flipOutDelay" caption_style="zoom" filter_style="6" large="5" filter_align="right"]
+[/section]]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>post grid</category>
+			<pubDate>Sun, 20 Sep 2015 15:57:44 +0000</pubDate>
+		</item>
+		<item>
+			<title>Blog Column 4</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/blog/blog-column-4</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/blog/blog-column-4</guid>
+			<description><![CDATA[[post_grid source="k2-category:11,12,13,14,15," limit="8" show_more="yes" show_more_item="4" order="title" loading_animation="lazyLoading" filter_animation="sequentially" caption_style="minimal" filter_style="5" filter_align="center"]]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>post grid</category>
+			<pubDate>Sun, 20 Sep 2015 15:57:23 +0000</pubDate>
+		</item>
+		<item>
+			<title>Blog Column 2</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/blog/blog-column-2</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/blog/blog-column-2</guid>
+			<description><![CDATA[[post_grid source="k2-category:11,12,13,14,15," show_more="yes" show_more_item="2" limit="10" order="title" caption_style="overlayBottom" large="2" thumb_height="350"]]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>post grid</category>
+			<pubDate>Sun, 20 Sep 2015 15:56:30 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

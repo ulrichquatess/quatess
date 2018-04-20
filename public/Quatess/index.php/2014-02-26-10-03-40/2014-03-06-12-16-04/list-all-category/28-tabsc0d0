@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/shortcode-ultimate.css" type="text/css"?>
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/font-awesome.min.css" type="text/css"?>
+<?xml-stylesheet href="https://bdthemes.net/demo/joomla/framed/templates/framed/css/shortcodes.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>List all Categories</title>
+		<description><![CDATA[Framed Joomla Template is a high quality, simple, flat and clean template which build by Warp 7 Framework, also used lots of CSS3 effect with all modern browser supported.  You can use this template to different website, because it’s have live customizer with lots of admin customization features, so your website must be unique design. You can use this template for any kind of portfolio site, company, software firm, blog, personal website and more as you like…]]></description>
+		<link>https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-16-04/list-all-category/28-tabs</link>
+		<lastBuildDate>Mon, 02 Apr 2018 21:38:04 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-16-04/list-all-category/28-tabs?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>demo@bdthemes.com (Framed Joomla Template)</managingEditor>
+		<item>
+			<title>Sample Tab3</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-16-04/list-all-category/28-tabs/48-sample-tab3</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-16-04/list-all-category/28-tabs/48-sample-tab3</guid>
+			<description><![CDATA[<p><img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/a.jpg" /></p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Tabs</category>
+			<pubDate>Sun, 09 Mar 2014 16:37:49 +0000</pubDate>
+		</item>
+		<item>
+			<title>Sample Tab2</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-16-04/list-all-category/28-tabs/47-sample-tab2</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-16-04/list-all-category/28-tabs/47-sample-tab2</guid>
+			<description><![CDATA[<p><img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/welcome1.jpg" /></p>Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Tabs</category>
+			<pubDate>Sun, 09 Mar 2014 16:37:10 +0000</pubDate>
+		</item>
+		<item>
+			<title>Sample Tab1</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-16-04/list-all-category/28-tabs/46-sample-tab1</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-16-04/list-all-category/28-tabs/46-sample-tab1</guid>
+			<description><![CDATA[<p><img src="https://bdthemes.net/demo/joomla/framed/images/splash_orange.jpg" /></p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Lorem ipsum dolor sit amet, ]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Tabs</category>
+			<pubDate>Sun, 09 Mar 2014 16:30:03 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

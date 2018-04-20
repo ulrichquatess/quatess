@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/shortcode-ultimate.css" type="text/css"?>
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/font-awesome.min.css" type="text/css"?>
+<?xml-stylesheet href="https://bdthemes.net/demo/joomla/framed/templates/framed/css/shortcodes.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>List all Categories</title>
+		<description><![CDATA[Framed Joomla Template is a high quality, simple, flat and clean template which build by Warp 7 Framework, also used lots of CSS3 effect with all modern browser supported.  You can use this template to different website, because it’s have live customizer with lots of admin customization features, so your website must be unique design. You can use this template for any kind of portfolio site, company, software firm, blog, personal website and more as you like…]]></description>
+		<link>https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-16-04/list-all-category/34-portfolio</link>
+		<lastBuildDate>Mon, 02 Apr 2018 21:39:51 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-16-04/list-all-category/34-portfolio?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>demo@bdthemes.com (Framed Joomla Template)</managingEditor>
+		<item>
+			<title>Portfolio Grid 6 Column</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-grid/column-6</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-grid/column-6</guid>
+			<description><![CDATA[[section force_fullwidth="yes"]
+	[portfolio source="k2-category: 13,14,15,16,17,18,19" intro_text_limit="0" grid_type="13" animation="pagebottom" limit="12" large="6" order="title" intro_text_limit="0" filter_align="right"]
+[/section]
+
+
+]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Portfolio</category>
+			<pubDate>Sun, 20 Sep 2015 15:47:55 +0000</pubDate>
+		</item>
+		<item>
+			<title>Portfolio Grid 4 Column</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-grid/column-4</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-grid/column-4</guid>
+			<description><![CDATA[[portfolio style="2" source="k2-category: 13,14,15,16,17,18,19" grid_type="11" animation="rotate" limit="16" order="title" intro_text_limit="0" large="4"]]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Portfolio</category>
+			<pubDate>Sun, 20 Sep 2015 15:47:27 +0000</pubDate>
+		</item>
+		<item>
+			<title>Portfolio Grid 5 Column</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-grid/column-5</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-grid/column-5</guid>
+			<description><![CDATA[[section force_fullwidth="yes"]
+	[portfolio style="2" source="k2-category: 13,14,15,16,17,18,19" grid_type="12" animation="pagetop" limit="10" large="5" order="title" intro_text_limit="0" filter_align="right"]
+[/section]
+]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Portfolio</category>
+			<pubDate>Sun, 20 Sep 2015 15:46:55 +0000</pubDate>
+		</item>
+		<item>
+			<title>Portfolio Grid 3 Column</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-grid/column-3</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-grid/column-3</guid>
+			<description><![CDATA[[portfolio source="k2-category: 13,14,15,16,17,18,19" grid_type="10" animation="scale" limit="12" order="title" large="3"]]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Portfolio</category>
+			<pubDate>Sun, 20 Sep 2015 15:46:23 +0000</pubDate>
+		</item>
+		<item>
+			<title>Portfolio Grid 2 Column</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-grid/column-2</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-grid/column-2</guid>
+			<description><![CDATA[[portfolio source="k2-category: 13,14,15,16,17,18,19" grid_type="2" animation="fade" limit="8" order="title" large="2"]
+]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Portfolio</category>
+			<pubDate>Sun, 20 Sep 2015 15:45:52 +0000</pubDate>
+		</item>
+		<item>
+			<title>Special Grid 6</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-mosaic/special-grid-6</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-mosaic/special-grid-6</guid>
+			<description><![CDATA[[portfolio source="k2-category: 13,14,15,16,17,18,19" grid_type="6" animation="pagebottom" limit="12" order="title" intro_text_limit="20" filter_align="right" large="6"]]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Portfolio</category>
+			<pubDate>Sun, 20 Sep 2015 15:45:09 +0000</pubDate>
+		</item>
+		<item>
+			<title>Special Grid 5</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-mosaic/special-grid-5</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-mosaic/special-grid-5</guid>
+			<description><![CDATA[[portfolio style="2" source="k2-category: 13,14,15,16,17,18,19" grid_type="5" animation="rotate" limit="10" order="title" intro_text_limit="20" filter_align="right" large="5"]
+]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Portfolio</category>
+			<pubDate>Sun, 20 Sep 2015 15:44:30 +0000</pubDate>
+		</item>
+		<item>
+			<title>Special Grid 4</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-mosaic/special-grid-4</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-mosaic/special-grid-4</guid>
+			<description><![CDATA[[portfolio source="k2-category: 13,14,15,16,17,18,19" grid_type="4" animation="scale" limit="16" intro_text_limit="20" order="title" large="4" filter_align="center"]]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Portfolio</category>
+			<pubDate>Sun, 20 Sep 2015 15:43:57 +0000</pubDate>
+		</item>
+		<item>
+			<title>Special Grid 3</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-mosaic/special-grid-3</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-mosaic/special-grid-3</guid>
+			<description><![CDATA[[portfolio source="k2-category: 13,14,15,16,17,18,19" grid_type="9" animation="scale" limit="9" order="title" intro_text_limit="20" large="3" filter_align="center"]]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Portfolio</category>
+			<pubDate>Sun, 20 Sep 2015 15:43:27 +0000</pubDate>
+		</item>
+		<item>
+			<title>Special Grid 2</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-mosaic/special-grid-2</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-mosaic/special-grid-2</guid>
+			<description><![CDATA[[portfolio source="k2-category: 13,14,15,16,17,18,19" grid_type="8" animation="scale" limit="8" large="2" order="title" intro_text_limit="20" filter_align="center"]]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Portfolio</category>
+			<pubDate>Sun, 20 Sep 2015 15:42:50 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

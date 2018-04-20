@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/shortcode-ultimate.css" type="text/css"?>
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/font-awesome.min.css" type="text/css"?>
+<?xml-stylesheet href="https://bdthemes.net/demo/joomla/framed/templates/framed/css/shortcodes.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">List all Categories</title>
+	<subtitle type="text">Framed Joomla Template is a high quality, simple, flat and clean template which build by Warp 7 Framework, also used lots of CSS3 effect with all modern browser supported.  You can use this template to different website, because it’s have live customizer with lots of admin customization features, so your website must be unique design. You can use this template for any kind of portfolio site, company, software firm, blog, personal website and more as you like…</subtitle>
+	<link rel="alternate" type="text/html" href="https://bdthemes.net"/>
+	<id>https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-16-04/list-all-category/34-portfolio</id>
+	<updated>2018-04-02T21:39:52+00:00</updated>
+	<author>
+		<name>Framed Joomla Template</name>
+		<email>demo@bdthemes.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-16-04/list-all-category/34-portfolio?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Portfolio Grid 6 Column</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-grid/column-6"/>
+		<published>2015-09-20T15:47:55+00:00</published>
+		<updated>2015-09-20T15:47:55+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-grid/column-6</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">[section force_fullwidth=&quot;yes&quot;]
+	[portfolio source=&quot;k2-category: 13,14,15,16,17,18,19&quot; intro_text_limit=&quot;0&quot; grid_type=&quot;13&quot; animation=&quot;pagebottom&quot; limit=&quot;12&quot; large=&quot;6&quot; order=&quot;title&quot; intro_text_limit=&quot;0&quot; filter_align=&quot;right&quot;]
+[/section]
+
+
+</summary>
+		<content type="html">[section force_fullwidth=&quot;yes&quot;]
+	[portfolio source=&quot;k2-category: 13,14,15,16,17,18,19&quot; intro_text_limit=&quot;0&quot; grid_type=&quot;13&quot; animation=&quot;pagebottom&quot; limit=&quot;12&quot; large=&quot;6&quot; order=&quot;title&quot; intro_text_limit=&quot;0&quot; filter_align=&quot;right&quot;]
+[/section]
+
+
+</content>
+		<category term="Portfolio" />
+	</entry>
+	<entry>
+		<title>Portfolio Grid 4 Column</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-grid/column-4"/>
+		<published>2015-09-20T15:47:27+00:00</published>
+		<updated>2015-09-20T15:47:27+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-grid/column-4</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">[portfolio style=&quot;2&quot; source=&quot;k2-category: 13,14,15,16,17,18,19&quot; grid_type=&quot;11&quot; animation=&quot;rotate&quot; limit=&quot;16&quot; order=&quot;title&quot; intro_text_limit=&quot;0&quot; large=&quot;4&quot;]</summary>
+		<content type="html">[portfolio style=&quot;2&quot; source=&quot;k2-category: 13,14,15,16,17,18,19&quot; grid_type=&quot;11&quot; animation=&quot;rotate&quot; limit=&quot;16&quot; order=&quot;title&quot; intro_text_limit=&quot;0&quot; large=&quot;4&quot;]</content>
+		<category term="Portfolio" />
+	</entry>
+	<entry>
+		<title>Portfolio Grid 5 Column</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-grid/column-5"/>
+		<published>2015-09-20T15:46:55+00:00</published>
+		<updated>2015-09-20T15:46:55+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-grid/column-5</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">[section force_fullwidth=&quot;yes&quot;]
+	[portfolio style=&quot;2&quot; source=&quot;k2-category: 13,14,15,16,17,18,19&quot; grid_type=&quot;12&quot; animation=&quot;pagetop&quot; limit=&quot;10&quot; large=&quot;5&quot; order=&quot;title&quot; intro_text_limit=&quot;0&quot; filter_align=&quot;right&quot;]
+[/section]
+</summary>
+		<content type="html">[section force_fullwidth=&quot;yes&quot;]
+	[portfolio style=&quot;2&quot; source=&quot;k2-category: 13,14,15,16,17,18,19&quot; grid_type=&quot;12&quot; animation=&quot;pagetop&quot; limit=&quot;10&quot; large=&quot;5&quot; order=&quot;title&quot; intro_text_limit=&quot;0&quot; filter_align=&quot;right&quot;]
+[/section]
+</content>
+		<category term="Portfolio" />
+	</entry>
+	<entry>
+		<title>Portfolio Grid 3 Column</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-grid/column-3"/>
+		<published>2015-09-20T15:46:23+00:00</published>
+		<updated>2015-09-20T15:46:23+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-grid/column-3</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">[portfolio source=&quot;k2-category: 13,14,15,16,17,18,19&quot; grid_type=&quot;10&quot; animation=&quot;scale&quot; limit=&quot;12&quot; order=&quot;title&quot; large=&quot;3&quot;]</summary>
+		<content type="html">[portfolio source=&quot;k2-category: 13,14,15,16,17,18,19&quot; grid_type=&quot;10&quot; animation=&quot;scale&quot; limit=&quot;12&quot; order=&quot;title&quot; large=&quot;3&quot;]</content>
+		<category term="Portfolio" />
+	</entry>
+	<entry>
+		<title>Portfolio Grid 2 Column</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-grid/column-2"/>
+		<published>2015-09-20T15:45:52+00:00</published>
+		<updated>2015-09-20T15:45:52+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-grid/column-2</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">[portfolio source=&quot;k2-category: 13,14,15,16,17,18,19&quot; grid_type=&quot;2&quot; animation=&quot;fade&quot; limit=&quot;8&quot; order=&quot;title&quot; large=&quot;2&quot;]
+</summary>
+		<content type="html">[portfolio source=&quot;k2-category: 13,14,15,16,17,18,19&quot; grid_type=&quot;2&quot; animation=&quot;fade&quot; limit=&quot;8&quot; order=&quot;title&quot; large=&quot;2&quot;]
+</content>
+		<category term="Portfolio" />
+	</entry>
+	<entry>
+		<title>Special Grid 6</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-mosaic/special-grid-6"/>
+		<published>2015-09-20T15:45:09+00:00</published>
+		<updated>2015-09-20T15:45:09+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-mosaic/special-grid-6</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">[portfolio source=&quot;k2-category: 13,14,15,16,17,18,19&quot; grid_type=&quot;6&quot; animation=&quot;pagebottom&quot; limit=&quot;12&quot; order=&quot;title&quot; intro_text_limit=&quot;20&quot; filter_align=&quot;right&quot; large=&quot;6&quot;]</summary>
+		<content type="html">[portfolio source=&quot;k2-category: 13,14,15,16,17,18,19&quot; grid_type=&quot;6&quot; animation=&quot;pagebottom&quot; limit=&quot;12&quot; order=&quot;title&quot; intro_text_limit=&quot;20&quot; filter_align=&quot;right&quot; large=&quot;6&quot;]</content>
+		<category term="Portfolio" />
+	</entry>
+	<entry>
+		<title>Special Grid 5</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-mosaic/special-grid-5"/>
+		<published>2015-09-20T15:44:30+00:00</published>
+		<updated>2015-09-20T15:44:30+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-mosaic/special-grid-5</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">[portfolio style=&quot;2&quot; source=&quot;k2-category: 13,14,15,16,17,18,19&quot; grid_type=&quot;5&quot; animation=&quot;rotate&quot; limit=&quot;10&quot; order=&quot;title&quot; intro_text_limit=&quot;20&quot; filter_align=&quot;right&quot; large=&quot;5&quot;]
+</summary>
+		<content type="html">[portfolio style=&quot;2&quot; source=&quot;k2-category: 13,14,15,16,17,18,19&quot; grid_type=&quot;5&quot; animation=&quot;rotate&quot; limit=&quot;10&quot; order=&quot;title&quot; intro_text_limit=&quot;20&quot; filter_align=&quot;right&quot; large=&quot;5&quot;]
+</content>
+		<category term="Portfolio" />
+	</entry>
+	<entry>
+		<title>Special Grid 4</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-mosaic/special-grid-4"/>
+		<published>2015-09-20T15:43:57+00:00</published>
+		<updated>2015-09-20T15:43:57+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-mosaic/special-grid-4</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">[portfolio source=&quot;k2-category: 13,14,15,16,17,18,19&quot; grid_type=&quot;4&quot; animation=&quot;scale&quot; limit=&quot;16&quot; intro_text_limit=&quot;20&quot; order=&quot;title&quot; large=&quot;4&quot; filter_align=&quot;center&quot;]</summary>
+		<content type="html">[portfolio source=&quot;k2-category: 13,14,15,16,17,18,19&quot; grid_type=&quot;4&quot; animation=&quot;scale&quot; limit=&quot;16&quot; intro_text_limit=&quot;20&quot; order=&quot;title&quot; large=&quot;4&quot; filter_align=&quot;center&quot;]</content>
+		<category term="Portfolio" />
+	</entry>
+	<entry>
+		<title>Special Grid 3</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-mosaic/special-grid-3"/>
+		<published>2015-09-20T15:43:27+00:00</published>
+		<updated>2015-09-20T15:43:27+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-mosaic/special-grid-3</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">[portfolio source=&quot;k2-category: 13,14,15,16,17,18,19&quot; grid_type=&quot;9&quot; animation=&quot;scale&quot; limit=&quot;9&quot; order=&quot;title&quot; intro_text_limit=&quot;20&quot; large=&quot;3&quot; filter_align=&quot;center&quot;]</summary>
+		<content type="html">[portfolio source=&quot;k2-category: 13,14,15,16,17,18,19&quot; grid_type=&quot;9&quot; animation=&quot;scale&quot; limit=&quot;9&quot; order=&quot;title&quot; intro_text_limit=&quot;20&quot; large=&quot;3&quot; filter_align=&quot;center&quot;]</content>
+		<category term="Portfolio" />
+	</entry>
+	<entry>
+		<title>Special Grid 2</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-mosaic/special-grid-2"/>
+		<published>2015-09-20T15:42:50+00:00</published>
+		<updated>2015-09-20T15:42:50+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/portfolio/portfolio-mosaic/special-grid-2</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">[portfolio source=&quot;k2-category: 13,14,15,16,17,18,19&quot; grid_type=&quot;8&quot; animation=&quot;scale&quot; limit=&quot;8&quot; large=&quot;2&quot; order=&quot;title&quot; intro_text_limit=&quot;20&quot; filter_align=&quot;center&quot;]</summary>
+		<content type="html">[portfolio source=&quot;k2-category: 13,14,15,16,17,18,19&quot; grid_type=&quot;8&quot; animation=&quot;scale&quot; limit=&quot;8&quot; large=&quot;2&quot; order=&quot;title&quot; intro_text_limit=&quot;20&quot; filter_align=&quot;center&quot;]</content>
+		<category term="Portfolio" />
+	</entry>
+</feed>

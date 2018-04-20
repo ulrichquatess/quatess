@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/shortcode-ultimate.css" type="text/css"?>
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/font-awesome.min.css" type="text/css"?>
+<?xml-stylesheet href="https://bdthemes.net/demo/joomla/framed/templates/framed/css/shortcodes.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Features</title>
+		<description><![CDATA[Framed Joomla Template is a high quality, simple, flat and clean template which build by Warp 7 Framework, also used lots of CSS3 effect with all modern browser supported.  You can use this template to different website, because it’s have live customizer with lots of admin customization features, so your website must be unique design. You can use this template for any kind of portfolio site, company, software firm, blog, personal website and more as you like…]]></description>
+		<link>https://bdthemes.net/demo/joomla/framed/index.php/features/29-page</link>
+		<lastBuildDate>Mon, 02 Apr 2018 21:59:38 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://bdthemes.net/demo/joomla/framed/index.php/features/29-page?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>demo@bdthemes.com (Framed Joomla Template)</managingEditor>
+		<item>
+			<title>Help Center</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/extra-pages/help-center</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/extra-pages/help-center</guid>
+			<description><![CDATA[[row]
+[column size="1/3"]
+[flip_box][flip_front border="3px solid #ddd" radius="2" padding="30px"] [icon_list_item title="General Questions" icon="images/sampledata/svg_icons/umbrella.svg" icon_size="96" icon_align="top"] [/flip_front]
+[flip_back border="3px solid #ddd" radius="2"] <h3 style="text-align:center">RESULTS</h3><P>Lorem ipsum dolor sit ameconsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</P> <a href="https://bdthemes.net/demo/joomla/framed/#" class="readon">Read more</a>[/flip_back][/flip_box]
+[/column]
+[column size="1/3"]
+[flip_box][flip_front border="3px solid #ddd" radius="2" padding="30px"] [icon_list_item title="Theme Options" icon="images/sampledata/svg_icons/settings.svg" icon_size="96" icon_align="top"] [/flip_front]
+[flip_back border="3px solid #ddd" radius="2"] <h3 style="text-align:center">RESULTS</h3><P>Lorem ipsum dolor sit ameconsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</P> <a href="https://bdthemes.net/demo/joomla/framed/#" class="readon">Read more</a>[/flip_back][/flip_box]
+[/column]
+[column size="1/3"]
+[flip_box][flip_front border="3px solid #ddd" radius="2" padding="30px"] [icon_list_item title="Clean documentation" icon="images/sampledata/svg_icons/book.svg" icon_size="96" icon_align="top"] [/flip_front]
+[flip_back border="3px solid #ddd" radius="2"] <h3 style="text-align:center">RESULTS</h3><P>Lorem ipsum dolor sit ameconsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</P> <a href="https://bdthemes.net/demo/joomla/framed/#" class="readon">Read more</a>[/flip_back][/flip_box]
+[/column]
+[/row]
+
+[spacer size="30"]
+
+<h4><strong>General Questions</strong></h4>
+[accordion]
+[spoiler class="template-style" title="Sed est elit posuere ac semper at hendrerit a neque?"]Lorem ipsum dolor sit amet tempor ac, laoreet feugiat. Proin id dui. Integer a placerat at, mollis nunc vel neque sollicitudin augue sit amet magna. Donec aliquam dictum quis, tincidunt molestie, neque nibh ultricies nec, aliquam purus. Fusce convallis non, facilisis sodales. Vivamus sem at augue. Nulla et magnis dis parturient montes, nascetur ridiculus mus. Vivamus justo.[/spoiler]
+
+[spoiler class="template-style" title="Donec vestibulum justo a diam ultricies pellentesque?"]Congue non, feugiat sagittis sed, fermentum nec, suscipit luctus. Maecenas mi mauris, interdum eu, tempus orci pellentesque tincidunt, diam lorem, iaculis lectus. Mauris mi leo eu dui convallis viverra, enim id magna. Mauris vel quam. Phasellus facilisis dignissim in, purus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per conubia nostra.[/spoiler]
+
+[spoiler class="template-style" title="Quisque mattis diam vel lacus tincidunt elementum?"]Etiam ut justo. Quisque urna. Donec nec erat. Aenean scelerisque sem. Etiam blandit vestibulum lectus sit amet, consectetuer vulputate quam. Nulla aliquet in, mauris. Fusce aliquam euismod non, sagittis malesuada. Donec porttitor risus. Sed aliquet at, imperdiet convallis. Suspendisse a mi. Aenean dictum est, volutpat at, vehicula viverra, egestas aliquam, nulla in faucibus a.[/spoiler]
+
+[spoiler class="template-style" title="Integer a placerat at, mollis nunc vel neque sollicitudin?"]Curabitur sit amet tempus rutrum id, dolor. Mauris tortor. Maecenas facilisis urna vitae augue. Praesent feugiat. Donec ligula lorem tempus id, porttitor magna. Curabitur ut mi. Nam mattis, mauris et massa. Curabitur fringilla gravida. Donec lectus nec ultrices dui. Morbi placerat tempus, urna viverra eget, facilisis libero. Nulla posuere. In neque ac lectus. Sed diam lorem, pellentesque eget, nunc. Praesent nec cursus aliquet. In euismod nulla a lorem nec tristique libero a.[/spoiler]
+
+[spoiler class="template-style" title="Integer lorem non enim fringilla orci?"]Nunc condimentum interdum velit a ante at lobortis mauris viverra eget, nunc. Etiam aliquet, arcu erat, molestie egestas, nunc vel nonummy at, rhoncus placerat nisl a dui. Morbi egestas, nunc vel neque auctor ligula.[/spoiler]
+[/accordion]
+
+[spacer]
+
+<h4><strong>Theme Options</strong></h4>
+[accordion]
+[spoiler class="template-style" title="Mauris nec leo semper orci in ultricies tortor venenatis?"]Donec vestibulum justo a diam ultricies pellentesque. Quisque mattis diam vel lacus tincidunt elementum. Sed vitae adipiscing turpis. Aenean ligula nibh, molestie id viverra a, dapibus at dolor. In iaculis viverra neque, ac eleifend ante lobortis id. In viverra ipsum ac eros tristique dignissim. Donec aliquam velit vitae mi dictum.[/spoiler]
+
+[spoiler class="template-style" title="Vestibulum ante ipsum cursus pulvinar?"]Ut fermentum ante ipsum primis in nunc. Nulla vehicula magna diam, viverra diam aliquet mi quam in ligula nunc, dapibus tellus. Vestibulum nibh. Fusce congue. Donec faucibus orci luctus elit, gravida varius nec, mattis vel, orci. In urna. Suspendisse turpis egestas. Mauris auctor dignissim. Vivamus magna. Etiam varius et.[/spoiler]
+
+[spoiler class="template-style" title="Nulla lobortis mauris pulvinar felis pellentesque?"]Praesent justo. Nulla lobortis mauris pulvinar felis, feugiat mattis vel, ornare tellus. Suspendisse eu dui vitae ornare eleifend adipiscing non, neque. Etiam ullamcorper, risus eu mi. Fusce sed felis. Mauris in faucibus ligula. Nam sed adipiscing sapien aliquet molestie. Phasellus tellus nec diam. Sed eu odio.[/spoiler]
+[/accordion]
+
+[spacer]
+
+<h4><strong>Clean documentation</strong></h4>
+[accordion]
+[spoiler class="template-style" title="Etiam ullamcorper risus eu mi fusce sed felis?"]Vestibulum egestas vulputate, enim sed lacus. Nunc convallis purus. Mauris eget lectus. Vestibulum consectetuer vulputate sed, aliquam at, metus. Nullam wisi arcu, imperdiet dignissim, libero fermentum sed, rutrum et, scelerisque vel, augue. Praesent justo. Maecenas at ante. Morbi augue a ante ante, luctus et orci sit amet metus. Etiam blandit risus elit sit amet dolor. Nulla et erat sed urna.[/spoiler]
+
+[spoiler class="template-style" class="template-style" title="Aliquam risus tortor, pretium porttitor?"]Sed adipiscing. Nunc sed turpis. Nam suscipit, erat at purus. Aenean mollis pulvinar. Nulla quis metus. Nullam ut massa. Nulla hendrerit sed, elementum vitae, lectus. Vestibulum ante et magnis dis parturient montes, nascetur ridiculus mus. Nunc ipsum sit amet ipsum primis in faucibus gravida sagittis. Vestibulum tempus facilisis, ante ipsum enim, euismod nibh, fermentum eget, ultricies porta.[/spoiler]
+
+[spoiler class="template-style" title="Cras vitae libero quis leo. Ut nonummy elementum?"]Ut turpis. Curabitur blandit risus sit amet tellus sodales at, rhoncus wisi. Vivamus arcu congue non, ultrices mi. Aliquam eleifend placerat. Mauris auctor scelerisque, diam. Aenean posuere sit amet, iaculis leo, a erat. Quisque cursus, lacus sed fermentum nec, imperdiet faucibus, erat id leo luctus arcu quis arcu. Morbi consequat eu, aliquet porttitor vel, quam. Pellentesque tellus. Vestibulum tortor justo ac lacus vestibulum.[/spoiler]
+
+[spoiler class="template-style" title="Praesent tristique in accumsan urna eu venenatis nulla?"]Suspendisse eu libero et magnis dis parturient montes, nascetur ridiculus mus. Fusce ligula. Pellentesque eu augue a quam sagittis a, sollicitudin turpis mauris sit amet neque. Nam ut venenatis nulla facilisis vel, velit. Suspendisse potenti.[/spoiler]
+[/accordion]
+
+[spacer size="30"]
+<p style="text-align:center">DIDN`T FOUND ANSWER YOU LOOKING FOR?</p>
+<h2 style="text-align:center;margin-bottom: 0px;">Contact our experts</h2>
+[divider]
+[spacer size="30"]
+[row][column size="1/3"][member layout="layout1" text_align="center" photo="images/sampledata/team/team10.jpg" name="Paul Shepherd" role="Art Director" icon_1="icon: facebook" icon_1_url="#" icon_1_title=" facebook" icon_2="icon: twitter" icon_2_url="#" icon_2_title="twitter" icon_3="icon: google-plus" icon_3_url="#" icon_3_title="google-plus" icon_4="icon: linkedin" icon_4_url="#" icon_4_title="linkedin" icon_5="icon: flickr" icon_5_url="#" icon_5_title="flickr""]Vitae adipiscing turpis. Aenean ligula nibh, molestie id viverra a, dapibus at dolor.[/member][/column]
+[column size="1/3"][member layout="layout1" shadow="0px 1px 2px #eeeeee" text_align="center" photo="images/sampledata/team/team16.jpg" name="Karen Donut" role="Account manager" icon_1="icon: facebook" icon_1_url="#" icon_1_title=" facebook" icon_2="icon: twitter" icon_2_url="#" icon_2_title="twitter" icon_3="icon: google-plus" icon_3_url="#" icon_3_title="google-plus" icon_4="icon: linkedin" icon_4_url="#" icon_4_title="linkedin" icon_5="icon: flickr" icon_5_url="#" icon_5_title="flickr"]Vitae adipiscing turpis. Aenean ligula nibh, molestie id viverra a, dapibus at dolor.[/member][/column]
+[column size="1/3"][member layout="layout1" shadow="0px 1px 2px #eeeeee" text_align="center" photo="images/sampledata/team/team14.jpg" name="Nick Everdeen" role="SEO specialist" icon_1="icon: facebook" icon_1_url="#" icon_1_title=" facebook" icon_2="icon: twitter" icon_2_url="#" icon_2_title="twitter" icon_3="icon: google-plus" icon_3_url="#" icon_3_title="google-plus" icon_4="icon: linkedin" icon_4_url="#" icon_4_title="linkedin" icon_5="icon: flickr" icon_5_url="#" icon_5_title="flickr"]Vitae adipiscing turpis. Aenean ligula nibh, molestie id viverra a, dapibus at dolor.[/member][/column]
+[/row]
+[spacer size="65"]]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Page</category>
+			<pubDate>Tue, 08 Jul 2014 17:42:54 +0000</pubDate>
+		</item>
+		<item>
+			<title>Sidebar Right</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/extra-pages/sidebar-right</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/extra-pages/sidebar-right</guid>
+			<description><![CDATA[<h3> An example of a page with Right sidebar </h3>
+[row]
+[column size="1/3"]
+[animate type="fadeInUp" duration="1" delay="1" inline="no"]
+[panel background="#F4F4F5" color="#333333" border="1px none #cccccc" shadow="0px 1px 2px #eeeeee" radius="2" text_align="center"]
+<a href="https://bdthemes.net/demo/joomla/framed/#"> <img alt="" src="https://bdthemes.net/demo/joomla/framed/images/sampledata/features/04.jpg"></a>
+<h4> Programming </h4>
+<p> Lacus et vulputate pellen tesque velit nulla commodo sem at egestas lorem ipsum. </p>
+[button url="#" style="flat" background="#0FBCF5" color="#FFFFFF" size="3" wide="no" center="no" radius="3" icon_color="#FFFFFF" text_shadow="none"]View Details[/button]
+[/panel]
+[/animate]
+[/column]
+[column size="1/3"]
+[animate type="fadeInDown" duration="1" delay=".5" inline="no"]
+[panel background="#F4F4F5" color="#333333" border="1px none #cccccc" shadow="0px 1px 2px #eeeeee" radius="2" text_align="center"]
+<a href="https://bdthemes.net/demo/joomla/framed/#"> <img alt="" src="https://bdthemes.net/demo/joomla/framed/images/sampledata/features/06.jpg"></a>
+<h4> Corporate Identity </h4>
+<p> Pellen tesque velit nulla sem at egestas unitas poten ornare felis porttitor amet. </p>
+[button url="#" style="flat" background="#0FBCF5" color="#FFFFFF" size="3" wide="no" center="no" radius="3" icon_color="#FFFFFF" text_shadow="none"]View Details[/button]
+[/panel]
+[/animate]
+[/column]
+[column size="1/3"]
+[animate type="fadeInDown" duration="1" delay="1.5" inline="no"]
+[panel background="#F4F4F5" color="#333333" border="1px none #cccccc" shadow="0px 1px 2px #eeeeee" radius="2" text_align="center"]
+<a href="https://bdthemes.net/demo/joomla/framed/#"> <img alt="" src="https://bdthemes.net/demo/joomla/framed/images/sampledata/features/07.jpg"></a>
+<h4> Mobile Apps </h4>
+<p> Lorem nulla ipsum dolor for amet comma unitas potenti ornare felis porttitor amet sit. </p>
+[button url="#" style="flat" background="#0FBCF5" color="#FFFFFF" size="3" wide="no" center="no" radius="3" icon_color="#FFFFFF" text_shadow="none"]View Details[/button]
+[/panel]
+[/animate]
+[/column]
+[/row]
+[spacer size="30"]
+
+<h3> Sidebar Right </h3>
+<p> But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. </p>
+<p> In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. </p>
+<img alt="" src="https://bdthemes.net/demo/joomla/framed/images/sampledata/features/img.jpg" />
+
+<p> No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. </p> 
+
+<p> To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure? </p>
+<p> On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish.</p>
+[spacer size="45"]]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Page</category>
+			<pubDate>Thu, 22 May 2014 17:30:05 +0000</pubDate>
+		</item>
+		<item>
+			<title>Our office</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/extra-pages/our-office</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/extra-pages/our-office</guid>
+			<description><![CDATA[[content_slider style="default" autoplay="5" speed="0.5"] 
+	[content_slide]<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/1200x300/02.jpg" alt="" />[/content_slide] 
+	[content_slide]<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/1200x300/04.jpg" alt="" />[/content_slide] 
+	[content_slide]<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/1200x300/06.jpg" alt="" />[/content_slide] 
+	[content_slide]<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/1200x300/07.jpg" alt="" />[/content_slide]
+[/content_slider]
+
+[spacer size="100"]
+
+[row]
+	[column size="1/2"]
+		[heading style="line-dark" heading="h3" color="#666" size="16" align="left" margin="20"]We Love To Work &amp; We Love Where We Work[/heading]
+		Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes nemo minima rerums unsers sadips amets. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui.[spacer size="20"] Ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Asunt in anim uis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla.[spacer size="20"] Our template is the perfect choice for your business. It’s loaded with features, options &amp; page layouts. Plus we have the best customer support around, but dont take our word for it, ask any of our 15,000+ users!
+	[/column]
+	[column size="1/2"]
+		[heading style="line-dark" heading="h3" color="#666" size="16" align="left" margin="15"]Our Location[/heading]
+		[gmap_advanced width="200" height="175" border="0px solid #cccccc" lat="24.824874643579022" lng="89.38262999446634" zoom_control="no" pan_control="no" street_view_control="no" map_location_marker="yes" address="New York" responsive="yes"]
+		[spacer]
+		<p>[heading style="default" heading="h4" color="#666" size="16" align="left" margin="20"]Located In Beautiful Bangladesh [/heading]</p>
+			<ul class="uk-list">
+			<li>[icon icon="icon: home" background="transparent" color="#666" size="12" radius="0" border="1px solid #ddd" padding="5px" margin="5px 5px 5px 0 "] 26 North Street, Kolony, Bogra-5800</li> 
+			<li>[icon icon="icon: phone" background="transparent" color="#666" size="12" radius="0" border="1px solid #ddd" padding="5px" margin="5px 5px 5px 0 "] +880-1718-542596</li>
+			<li>[icon icon="icon: envelope" background="transparent" color="#666" size="12" radius="0" border="1px solid #ddd" padding="5px" margin="5px 5px 5px 0 "] <a href="https://bdthemes.net/demo/joomla/framed/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-47-35/contact-item"> Contact Us</a></li>
+			<li>[icon icon="icon: envelope-o" background="transparent" color="#666" size="12" radius="0" border="1px solid #ddd" padding="5px" margin="5px 5px 5px 0 "]<a href="https://bdthemes.net/demo/joomla/framed/#"> yourdomain@domain.com </a></li>
+		</ul>
+	[/column]
+[/row]
+[spacer size="100"]
+[heading style="line-dark" heading="h3" color="#666" size="16" align="left" margin="20"] Our Workplace [/heading]
+[row]
+	[column size="1/4"]
+		<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/400x400/01.jpg" alt="" />
+	[/column]
+	[column size="1/4"]
+		<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/400x400/04.jpg" alt="" />
+	[/column]
+	[column size="1/4"]
+		<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/400x400/05.jpg" alt="" />
+	[/column]
+	[column size="1/4"]
+		<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/400x400/08.jpg" alt="" />
+	[/column]
+[/row]
+[spacer size="90"]]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Page</category>
+			<pubDate>Thu, 22 May 2014 17:00:19 +0000</pubDate>
+		</item>
+		<item>
+			<title>Sidebar Left</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/extra-pages/sidebar-left</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/extra-pages/sidebar-left</guid>
+			<description><![CDATA[<h3>  An example of a page with left sidebar </h3> 
+<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+
+[spacer size="20"]
+[row][column size="1/3"]
+[photo_panel background="#ffffff" color="#333333" border="1px none #cccccc" shadow="0px 1px 2px transparent" radius="0" text_align="center" photo="images/sampledata/gallery/11.jpg"]Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium[/photo_panel]
+[/column]
+[column size="1/3"]
+[photo_panel background="#ffffff" color="#333333" border="1px none #cccccc" shadow="0px 1px 2px transparent" radius="0" text_align="center" photo="images/sampledata/gallery/26.jpg"]This template included lot's of user friently shortcode, you can easily use them[/photo_panel]
+[/column]
+[column size="1/3"]
+[photo_panel background="#ffffff" color="#333333" border="1px none #cccccc" shadow="0px 1px 2px transparent" radius="0" text_align="center" photo="images/sampledata/gallery/18.jpg"]Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium[/photo_panel]
+[/column]
+[/row]
+
+[spacer size="30"]
+
+<h3> We are good at</h3>
+[tabs style="default" active="1" vertical="no"][tab title="Company Mission"] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tristique cursus porttitor. In hendrerit rutrum libero non lobortis. Nulla et urna vel nisl pellentesque auctor sed at lectus. Quisque hendrerit tincidunt quam, Sed in fermentum ipsum. Sed porta nisl ante. In eleifend, nibh placerat sodales rutrum, lorem justo pretium justo, non imperdiet nisi nibh vitae erat. Vestibulum metus lacus, sed varius orci congue ut. Proin aliquam auctor aliquam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tristique cursus porttitor. In hendrerit rutrum libero non lobortis. Nulla et urna vel nisl pellentesque auctor sed at lectus. Quisque hendrerit tincidunt quam, Sed in fermentum ipsum. Sed porta nisl ante. In eleifend, nibh placerat sodales rutrum, lorem justo pretium justo, non imperdiet nisi nibh vitae erat. Vestibulum metus lacus, sed varius orci congue ut. Proin aliquam auctor aliquam. [/tab]
+[tab title="Framed Philosophy"]Sed in fermentum ipsum. Sed porta nisl ante. In eleifend, nibh placerat sodales rutrum, lorem justo pretium justo, non imperdiet nisi nibh vitae erat. Vestibulum metus lacus, pretium ut sollicitudin at, euismod sed nisl. Nulla sit amet posuere nunc. Proin ipsum augue, consectetur id imperdiet vitae, dapibus at nunc Etiam a nunc sed lacus blandit lobortis. Ut in nibh magna. Praesent auctor congue vehicula. Vestibulum blandit adipiscing posuere. Donec volutpat pretium ligula vitae iaculis. Sed in fermentum ipsum. Sed porta nisl ante. In eleifend, nibh placerat sodales rutrum, lorem justo pretium justo, non imperdiet nisi nibh vitae erat. Vestibulum metus lacus, pretium ut sollicitudin at, euismod sed nisl. Nulla sit amet posuere nunc. Proin ipsum augue, consectetur id imperdiet vitae, dapibus at nunc Etiam a nunc sed lacus blandit lobortis. Ut in nibh magna. Praesent auctor congue vehicula. Vestibulum blandit adipiscing posuere. Donec volutpat pretium ligula vitae iaculis. [/tab]
+[tab title="The Distinct Promise"] Etiam a nunc sed lacus blandit lobortis. Ut in nibh magna. Praesent auctor congue vehicula. Vestibulum blandit adipiscing posuere. Donec volutpat pretium ligula vitae iaculis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Etiam a nunc sed lacus blandit lobortis. Ut in nibh magna. Praesent auctor congue vehicula. Vestibulum blandit adipiscing posuere. Donec volutpat pretium ligula vitae iaculis. Etiam a nunc sed lacus blandit lobortis. Ut in nibh magna. Praesent auctor congue vehicula. Vestibulum blandit adipiscing posuere. Donec volutpat pretium ligula vitae iaculis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Etiam a nunc sed lacus blandit lobortis. Ut in nibh magna. Praesent auctor congue vehicula. Vestibulum blandit adipiscing posuere. Donec volutpat pretium ligula vitae iaculis.[/tab]
+]
+[/tabs]
+[spacer size="50"]
+
+]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Page</category>
+			<pubDate>Thu, 22 May 2014 16:57:51 +0000</pubDate>
+		</item>
+		<item>
+			<title>Meet The Team 3</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/extra-pages/meet-the-team-3</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/extra-pages/meet-the-team-3</guid>
+			<description><![CDATA[<h3 style="text-align:center">Welcome This Is <strong>Totemic Team</strong></h3>
+<p style="text-align:center">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts</p>
+[divider style="single_line" icon_color="#444" icon_size="24" top="no" margin_top="10" margin_bottom="10"]
+
+
+[row divider="no"][column size="1/2"][member background="#ffffff" color="#333333" border="1px solid #cccccc" shadow="0 1px 2px #eeeeee" radius="0" text_align="center" photo="images/sampledata/team/team6.jpg" name="Lucinda" role="Designer" icon_1="icon: facebook" icon_1_url="#" icon_1_color="#333333" icon_1_title="Facebook" icon_2="icon: twitter" icon_2_url="#" icon_2_color="#333333" icon_2_title="Twitter" icon_3="icon: google-plus" icon_3_url="#" icon_3_color="#333333" icon_3_title="Google-plus" icon_4="icon: linkedin" icon_4_url="#" icon_4_color="#333333" icon_4_title="Linkedin" icon_5="icon: pinterest" icon_5_url="#" icon_5_color="#333333" icon_5_title="Pinterest" icon_6="icon: flickr" icon_6_url="#" icon_6_color="#333333" icon_6_title="Flickr"]Ut wisi enim ad minim venirci tation ullamcorper susc nostrudexerci tation ullamcoramcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendinim veniam, quis nostrud exerexerci tation lamcoramcorper suscipit lobortis nisl ut aliquip ex ea commodo [/member][/column]
+[column size="1/2"][member background="#ffffff" color="#333333" border="1px solid #cccccc" shadow="0 1px 2px #eeeeee" radius="0" text_align="center" photo="images/sampledata/team/team7.jpg" name="Freddie" role="Proggamer" icon_1="icon: facebook" icon_1_url="#" icon_1_color="#333333" icon_1_title="Facebook" icon_2="icon: twitter" icon_2_url="#" icon_2_color="#333333" icon_2_title="Twitter" icon_3="icon: google-plus" icon_3_url="#" icon_3_color="#333333" icon_3_title="Google-plus" icon_4="icon: linkedin" icon_4_url="#" icon_4_color="#333333" icon_4_title="Linkedin" icon_5="icon: pinterest" icon_5_url="#" icon_5_color="#333333" icon_5_title="Pinterest" icon_6="icon: flickr" icon_6_url="#" icon_6_color="#333333" icon_6_title="Flickr"]Ut wisi enim ad minim venirci tation ullamcorper susc nostrudexerci tation ullamcoramcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendinim veniam, quis nostrud exerexerci tation lamcoramcorper suscipit lobortis nisl ut aliquip ex ea commodo [/member][/column]
+[/row]
+
+
+[row][column size="1/5"]
+	<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/team/team1.jpg" alt="" />
+[/column]
+[column size="1/5"]
+	<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/team/team2.jpg" alt="" />
+[/column]
+[column size="1/5"]
+	<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/team/team3.jpg" alt="" />
+[/column]
+[column size="1/5"]
+	<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/team/team4.jpg" alt="" />
+[/column]
+[column size="1/5"]
+	<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/team/team5.jpg" alt="" />
+[/column][/row]
+[spacer size="98"]
+
+[row divider="no"]
+	[column size="1/2"]
+		<h3>Skill</h3>
+		[progress_bar percent="90" text="Wordpress" text_color="#555555" bar_color="#f0f0f0" fill_color="#97daed"]
+		[progress_bar percent="85" text="html/css" text_color="#555555" bar_color="#f0f0f0" fill_color="#97daed"]
+		[progress_bar percent="80" text="Joomla" text_color="#555555" bar_color="#f0f0f0" fill_color="#97daed"]
+		[progress_bar percent="70" text="Website" text_color="#555555" bar_color="#f0f0f0" fill_color="#97daed"]
+	[/column]
+	[column size="1/2"]
+		<h3>What Clients Say</h3>
+		[testimonial style="2" name="Younis Khan" title="Web Designer" photo="images/sampledata/team/team4.jpg" company="Bdthemes Ltd" url="http://www.bdthemes.com"]Right markdosale sagrove at the coast of the Semantics, medows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into you.[/testimonial]
+	[/column]
+[/row]
+[spacer size="98"]
+
+[calltoaction title="Do not well in the past, do not dream of the future" title_color="#221b1b" button_text="Purchase" button_link="#" button_color="#e62828" button_background="#c1a4a4" color="#444" background="#ede8e8" radius="0" button_radius="0"]No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those.[/calltoaction]
+[spacer size="98"]
+
+[row divider="no"][column size="1/2"]
+	<h3>History</h3>
+	<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
+[spacer size="10"]
+<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+	[button style="default" url="Home" target="self" background="#2D89EF" color="#FFFFFF" size="4" wide="no" center="no" radius="2" icon_color="#FFFFFF" text_shadow="none"]Read More[/button]
+[/column]
+[column size="1/2"]
+	<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/IS170-49.jpg" alt="" />
+[/column]
+[/row]
+[spacer size="75"]]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Page</category>
+			<pubDate>Thu, 22 May 2014 16:50:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>Contact Us</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/features/29-page/131-contact-us</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/features/29-page/131-contact-us</guid>
+			<description><![CDATA[[spacer size="50"]
+<h2 style="text-align:center">OUR TEAM</h2>
+<p style="text-align:center">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+[divider top="no" margin_top="15" margin_bottom="30"]
+
+[row]
+	[column size="1/4"]
+		[member background="#ffffff" color="#666" border="1px solid #dddddd" shadow="0 1px 2px #eeeeee" radius="0" text_align="center" photo="images/sampledata/team/team13.jpg" name="Ferdinand" role="Team Leader" icon_1="icon: facebook" icon_1_url="#" icon_1_color="#666" icon_1_title="Facebook" icon_2="icon: twitter" icon_2_url="#" icon_2_color="#666" icon_2_title="Twitter" icon_3="icon: google-plus" icon_3_url="#" icon_3_color="#666" icon_3_title="Google-plus" icon_4="icon: linkedin" icon_4_url="#" icon_4_color="#666" icon_4_title="linkedin" icon_5="icon: flickr" icon_5_url="#" icon_5_color="#666" icon_5_title="flickr" icon_6="icon: pinterest" icon_6_url="#" icon_6_color="#333333" icon_6_title="Pinterest" url="#"]In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium Integer
+		[/member]
+	[/column]
+
+	[column size="1/4"]
+		[member background="#ffffff" color="#666" border="1px solid #dddddd" shadow="0 1px 2px #eeeeee" radius="0" text_align="center" photo="images/sampledata/team/team16.jpg" name="Alexandra" role="Senior Officer" icon_1="icon: facebook" icon_1_url="#" icon_1_color="#666" icon_1_title="Facebook" icon_2="icon: twitter" icon_2_url="#" icon_2_color="#666" icon_2_title="Twitter" icon_3="icon: google-plus" icon_3_url="#" icon_3_color="#666" icon_3_title="Google-plus" icon_4="icon: linkedin" icon_4_url="#" icon_4_color="#666" icon_4_title="linkedin" icon_5="icon: flickr" icon_5_url="#" icon_5_color="#666" icon_5_title="flickr" icon_6="icon: pinterest" icon_6_url="#" icon_6_color="#333333" icon_6_title="Pinterest" url="#"]In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede Senior Officermollis
+		[/member]
+	[/column]
+
+	[column size="1/4"]
+		[member background="#ffffff" color="#666" border="1px solid #dddddd" shadow="0 1px 2px #eeeeee" radius="0" text_align="center" photo="images/sampledata/team/team5.jpg" name="Derrick" role="Designer" icon_1="icon: facebook" icon_1_url="#" icon_1_color="#666" icon_1_title="Facebook" icon_2="icon: twitter" icon_2_url="#" icon_2_color="#666" icon_2_title="Twitter" icon_3="icon: google-plus" icon_3_url="#" icon_3_color="#666" icon_3_title="Google-plus" icon_4="icon: linkedin" icon_4_url="#" icon_4_color="#666" icon_4_title="linkedin" icon_5="icon: flickr" icon_5_url="#" icon_5_color="#666" icon_5_title="flickr" icon_6="icon: pinterest" icon_6_url="#" icon_6_color="#333333" icon_6_title="Pinterest" url="#"]In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium Integer
+		[/member]
+	[/column]
+
+	[column size="1/4"]
+		[member background="#ffffff" color="#666" border="1px solid #dddddd" shadow="0 1px 2px #eeeeee" radius="0" text_align="center" photo="images/sampledata/team/team9.jpg" name="Christina" role="Developer" icon_1="icon: facebook" icon_1_url="#" icon_1_color="#666" icon_1_title="Facebook" icon_2="icon: twitter" icon_2_url="#" icon_2_color="#666" icon_2_title="Twitter" icon_3="icon: google-plus" icon_3_url="#" icon_3_color="#666" icon_3_title="Google-plus" icon_4="icon: linkedin" icon_4_url="#" icon_4_color="#666" icon_4_title="linkedin" icon_5="icon: flickr" icon_5_url="#" icon_5_color="#666" icon_5_title="flickr" icon_6="icon: pinterest" icon_6_url="#" icon_6_color="#333333" icon_6_title="Pinterest" url="#"]In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium Integer
+		[/member]
+	[/column]
+[/row]
+[spacer size="50"]]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Page</category>
+			<pubDate>Mon, 12 May 2014 13:38:13 +0000</pubDate>
+		</item>
+		<item>
+			<title>Image With Text Slider</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/sliders/2014-04-29-09-41-26/image-with-text-slider</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/sliders/2014-04-29-09-41-26/image-with-text-slider</guid>
+			<description><![CDATA[[content_slider style="default" effect="slide" arrows="yes" pages="no" autoplay="5" speed="0.5"]
+	[content_slide] 
+	[row]
+	[column size="1/2"]<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/gallery/1.jpg" height="250" width="500" alt="">[/column]
+	[column size="1/2"]
+	<h3>Default Content Title Here</h3>
+	<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+	<p>
+		Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores.
+	</p>
+	<a href="https://bdthemes.net/demo/joomla/framed/#" class="readon">See More Default Content Slider</a>
+	
+	[/column]
+	[/row]
+	[/content_slide]
+	[content_slide] 
+	[row]
+		[column size="1/2"]<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/gallery/29.jpg" height="250" width="500" alt="">[/column]
+		[column size="1/2"]
+		<h3>Default Content Title Here</h3>
+		<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+		[list icon="icon: check" icon_color="#2ecc71"]
+		<ul>
+		  <li>Lorem ipsum dolor sit amet, consectetuer adipiscing 
+		  elit. Aenean commodo ligula eget dolor. Aenean 
+		  massa.</li>
+		  <li>Cum sociis natoque penatibus et magnis dis 
+		  parturient montes, nascetur ridiculus mus. Donec quam 
+		  felis, ultricies nec, pellentesque.</li>
+		  <li>Nulla consequat massa quis enim. Donec pede justo, 
+		  fringilla vel, aliquet nec, vulputate eget, arcu.</li>
+		</ul>
+		[/list]
+		<a href="https://bdthemes.net/demo/joomla/framed/#" class="readon">See More Default Content Slider</a>
+		
+		[/column]
+	[/row]
+	[/content_slide]
+	[content_slide] 
+		[row]
+	[column size="1/2"]
+	<h3>Default Content Title Here</h3>
+	<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+	<p>
+		Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores.
+	</p>
+	<a href="https://bdthemes.net/demo/joomla/framed/#" class="readon">See More Default Content Slider</a>
+	
+	[/column]
+	[column size="1/2"]<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/gallery/24.jpg" height="250" width="500" alt="">[/column]
+	[/row]
+	[/content_slide]
+[/content_slider]
+]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Page</category>
+			<pubDate>Tue, 29 Apr 2014 15:52:30 +0000</pubDate>
+		</item>
+		<item>
+			<title>Plan and Pricing </title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/extra-pages/plan-and-pricing</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/extra-pages/plan-and-pricing</guid>
+			<description><![CDATA[[spacer size="50"]
+
+ [pricing_table style="2"]
+    
+    [plan name="BASIC" price="19.99" period="per month" background="rgba(248,148,6,.06)" color="#444444" icon="icon: home" icon_color="#f89406" icon_size="48" btn_url="#" btn_text="Sign Up Now" btn_background="#f89406" btn_background_hover="#fda425"]
+        <ul style="color: #f89406">
+            <li>
+            <span style="color:rgba(248, 148, 6, 0.5); margin:10px; display:block;">Vitae adipiscing turpis. Aenean ligula nibh, molestie id vivide.</span>
+            </li>
+            [button background="#f89406" color="#ffffff" size="5" center="yes" class=uk-margin-bottom url="http://bdthemes.com" target="blank"]Try Free for 30 Days[/button]
+            <li>[tooltip style="dark" content="Super Fast Web Space (RAID-10 SSD-Powered)" position="north"]<strong>10GB</strong> Space amount[/tooltip]</li>
+            <li><strong>Unlimited</strong> users</li>
+            <li><strong>30GB</strong> Bandwidth</li>
+            <li>Basic Security</li>
+           <li>[tooltip style="dark" content="Advanced Report Builder & MySQLi Included" position="north"]<strong>20</strong> MySQL Databases[/tooltip]</li>
+        </ul>
+    [/plan]
+
+    [plan name="STANDARD" price="39.99" period="per month" background="rgba(1,165,219,.06)" color="#444444" icon="icon: user-md" icon_color="#01a5db" icon_size="48" btn_url="#" btn_text="Sign Up Now" btn_background="#0098ca" btn_background_hover="#02a9e0"]
+        <ul style="color: #01a5db;">
+            <li>
+            <span style="color:rgba(1, 165, 219, 0.5); margin:10px; display:block;">Vitae adipiscing turpis. Aenean ligula nibh, molestie id vivide.</span>
+            </li>
+            [button background="#0098ca" color="#ffffff" size="5" center="yes" class=uk-margin-bottom url="http://bdthemes.com" target="blank"]Try Free for 30 Days[/button]
+            <li>[tooltip style="dark" content="Super Fast Web Space (RAID-10 SSD-Powered)" position="north"]<strong>30GB</strong> Space amount[/tooltip]</li>
+            <li class="pricing-tooltip"><strong>Unlimited</strong> users</li>
+            <li><strong>50GB</strong> Bandwidth</li>
+            <li>Standard Security</li>
+            <li>[tooltip style="dark" content="Advanced Report Builder & MySQLi Included" position="north"] <strong>40</strong> MySQL Databases[/tooltip]</li>
+        </ul>
+    [/plan]
+    
+     [plan name="PREMIUM" price="99.99" period="per month" background="rgba(132,162,0,.06)" color="#444444" icon="icon: bar-chart-o" icon_color="#84a200" icon_size="48" btn_url="#" btn_text="Sign Up" btn_background="#738d00" btn_background_hover="#8aa902" featured="yes" badge="MOST POPULAR" badge_background="#A4BA5B"]
+        <ul style="color: #84a200">
+            <li>
+            <span style="color:rgba(132, 162, 0, 0.5); margin:10px; display:block;">Vitae adipiscing turpis. Aenean ligula nibh, molestie id vivide.</span>
+            </li>
+            [button background="#738d00" color="#ffffff" size="5" center="yes" class=uk-margin-bottom url="http://bdthemes.com" target="blank"]Try Free for 30 Days[/button]
+            <li>[tooltip style="dark" content="Super Fast Web Space (RAID-10 SSD-Powered)" position="north"]<strong>100GB</strong> Space amount[/tooltip]</li>
+            <li class="pricing-tooltip"><strong>Unlimited</strong> users</li>
+            <li><strong>120GB</strong> Bandwidth</li>
+            <li>premium Security</li>
+            <li>[tooltip style="dark" content="Advanced Report Builder & MySQLi Included" position="north"] <strong>100</strong> MySQL Databases[/tooltip]</li>
+        </ul>
+    [/plan]
+    
+    [plan name="PROFESSIONAL" price="69.99" period="per month" background="rgba(193,8,65,.06)" color="#444444" icon="icon: shopping-cart" icon_color="#d40746" icon_size="48" btn_url="#" btn_text="Sign Up Now" btn_background="#c10841" btn_background_hover="#d40746"]
+        <ul style="color: #d40746">
+            <li>
+            <span style="color:rgba(212, 7, 70, 0.5); margin:10px; display:block;">Vitae adipiscing turpis. Aenean ligula nibh, molestie id vivide.</span>
+            </li>
+            [button background="#c10841" color="#ffffff" size="5" center="yes" class=uk-margin-bottom url="http://bdthemes.com" target="blank"]Try Free for 30 Days[/button]
+            <li>[tooltip style="dark" content="Super Fast Web Space (RAID-10 SSD-Powered)" position="north"]<strong>70GB</strong> Space amount[/tooltip]</li>
+            <li class="pricing-tooltip"><strong>Unlimited</strong> users</li>
+            <li><strong>70GB</strong> Bandwidth</li>
+            <li>Professional Security</li>
+            <li>[tooltip style="dark" content="Advanced Report Builder & MySQLi Included" position="north"] <strong>60</strong> MySQL Databases[/tooltip]</li>
+        </ul>
+    [/plan]
+   
+[/pricing_table]
+
+[spacer size="60"]
+[row]
+    [column size="1/2"]
+        [heading style="line-dark" heading="h3" size="25" align="left" margin="20"]Business Plan Info
+[/heading]
+        <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+            <h4>Nulla consequat massa quis enim?</h4>
+        [dropcap style="simple" size="3"]D[/dropcap]<p>onec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.</p>
+            <h4>Vivamus elementum semper nisi?</h4>
+        [dropcap style="simple" size="3"]A[/dropcap]<p>liquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.</P>
+            <h4>Aenean imperdiet?</h4>
+        [dropcap style="simple" size="3"]c[/dropcap]<p>urabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum.</p>
+    [/column]
+
+    [column size="1/2"]
+        [heading style="line-dark" heading="h3" size="25" align="left" margin="20"]Mega Plan Info[/heading]
+                <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+            <h4>Aenean imperdiet?</h4>
+                <p>Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.[highlight]Phasellus[/highlight] viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.</P>
+            <h4>Nulla consequat massa quis enim?</h4>
+                <p>Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero [highlight]venenatis[/highlight]venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget [highlight]condimentum[/highlight] rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.</p>
+    [/column]
+[/row]
+[spacer size="60"]
+[row]
+    [column size="1/1"]
+        [heading style="line-dark" heading="h3" size="25" align="left" margin="20"]FAQ[/heading]
+            [spoiler title="Are there additional costs?" open="yes" style="fancy" icon="arrow"]Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque [highlight]penatibus[/highlight] et magnis dis parturient montes, nascetur ridiculus mus. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.[/spoiler]
+            [spoiler title="Support included?" open="no" style="fancy" icon="arrow"]Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.Nulla [highlight]consequat[/highlight] massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.[/spoiler]
+            [spoiler title="How to setup the theme?" open="no" style="fancy" icon="arrow"]Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. [highlight]fringilla[/highlight] viverra nulla ut metus varius laoreet. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.[/spoiler]
+            [spoiler title="What about Refunds?" open="no" style="fancy" icon="arrow"]Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros [highlight]tincidunt[/highlight] tincidunt.Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.[/spoiler]
+            [spoiler title="Can i change Plans or cancel at any time?" open="no" style="fancy" icon="arrow"]Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros [highlight]faucibus[/highlight] tincidunt. Duis leo.Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.[/spoiler]
+    [/column]
+[/row]
+[spacer size="70"]]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Page</category>
+			<pubDate>Sun, 20 Apr 2014 16:58:02 +0000</pubDate>
+		</item>
+		<item>
+			<title>Our Service Page 2</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/extra-pages/our-service-page-two</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/extra-pages/our-service-page-two</guid>
+			<description><![CDATA[[row]
+	[column size="1/1"]
+		<h3> Welcome to our website! </h3>
+		[animate type="fadeInUp" duration="1" delay="0" inline="no"]
+			<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse condimentum malesuada semper. Integer velit lacus, lobortis sit amet interdum vel, posuere eget magna. Donec lacinia hendrerit urna ac commodo. Sed gravida, odio sed dapibus faucibus, ipsum orci lacinia lectus, ut suscipit ligula eros quis urna. </p>
+			<p> Unterdum, lacus et vulputate pellentesque, velit nulla commodo sem, at egestas nulla metus vel sapien!Lorem ipsum dolor sit amet communitas erdum, lacus et vulputate, velit nulla commodo sem, at egestas nulla metus vel sapien! Lorem ipsum dolor sit amet. </p>
+		[/animate]
+	[/column]
+[/row]
+
+[spacer size="90"]
+
+[row]
+	[column size="1/2"]
+	<h3> Our experience </h3>
+	[spacer size="30"]
+	[animate type="fadeInRight" duration="1" delay="0.5" inline="no"]
+	[progress_bar style="3" percent="75" text="Web development – 10 years" bar_color="#f0f0f0" fill_color="#0FBCF5" text_color="#888"] 
+		[progress_bar style="3" percent="93" text="Joomla – 6 years" bar_color="#f0f0f0" fill_color="#0FBCF5" text_color="#888"] 
+		[progress_bar style="3" percent="80" text="Marketing & PR – 3 years" bar_color="#f0f0f0" fill_color="#0FBCF5" text_color="#888"] 
+		[progress_bar style="3" percent="70" text="SMM & SEO – 2 years" bar_color="#f0f0f0" fill_color="#0FBCF5" text_color="#888"] 
+		[progress_bar style="3" percent="95" text="Photography – 8 years" bar_color="#f0f0f0" fill_color="#0FBCF5" text_color="#888"][/animate]
+	[/column]
+	[column size="1/2"]
+	<h3> Our services </h3> 
+	[animate type="lightSpeedIn" duration="1" delay="1" inline="no"]
+	[accordion]
+	[spoiler title="Web development" open="yes" icon="plus-circle"]Nullam velit nulla commodo sem, at egestas nulla metus vel imperdiet metus magna.[/spoiler]
+	[spoiler title="Photography" open="no" icon="plus-circle"]Quisque gravida turpis sit amet nulla posuere lacinia. Cras sed est sit amet ipsum luctus.[/spoiler]
+	[spoiler title="SEO & Marketing" open="no" icon="plus-circle"]Sed  ipsum dolor sit velit nulla commodo sem, at egestas nulla metus vel sapien![/spoiler]
+	[/accordion]
+	[/animate]
+	[/column]
+[/row]
+[spacer size="60"]]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Page</category>
+			<pubDate>Sun, 20 Apr 2014 16:35:52 +0000</pubDate>
+		</item>
+		<item>
+			<title>Meet The Team 2</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/extra-pages/meet-the-team-two</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/extra-pages/meet-the-team-two</guid>
+			<description><![CDATA[<h2 style="text-align:center">OUR TEAM 2</h2>
+<p style="text-align:center">Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc.</p>
+[divider top="no" margin_top="15" margin_bottom="30"]
+
+[row]
+	[column size="1/2"]
+		[member background="#ffffff" color="#666" border="1px solid #dddddd" shadow="0 1px 2px #eeeeee" radius="0" text_align="center" photo="images/sampledata/team/team7.jpg" name="Immanuel" role="Managing Director" icon_1="icon: facebook" icon_1_url="#" icon_1_color="#666" icon_1_title="Facebook" icon_2="icon: twitter" icon_2_url="#" icon_2_color="#666" icon_2_title="Twitter" icon_3="icon: google-plus" icon_3_url="#" icon_3_color="#666" icon_3_title="Google-plus" icon_4="icon: linkedin" icon_4_url="#" icon_4_color="#666" icon_4_title="linkedin" icon_5="icon: flickr" icon_5_url="#" icon_5_color="#666" icon_5_title="flickr" icon_6="icon: pinterest" icon_6_url="#" icon_6_color="#333333" icon_6_title="Pinterest" url="#"]Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.
+		[/member]
+	[/column]
+	[column size="1/2"]
+		[member background="#ffffff" color="#666" border="1px solid #dddddd" shadow="0 1px 2px #eeeeee" radius="0" text_align="center" photo="images/sampledata/team/team8.jpg" name="Samantha" role="General Manager" icon_1="icon: facebook" icon_1_url="#" icon_1_color="#666" icon_1_title="Facebook" icon_2="icon: twitter" icon_2_url="#" icon_2_color="#666" icon_2_title="Twitter" icon_3="icon: google-plus" icon_3_url="#" icon_3_color="#666" icon_3_title="Google-plus" icon_4="icon: linkedin" icon_4_url="#" icon_4_color="#666" icon_4_title="linkedin" icon_5="icon: flickr" icon_5_url="#" icon_5_color="#666" icon_5_title="flickr" icon_6="icon: pinterest" icon_6_url="#" icon_6_color="#333333" icon_6_title="Pinterest" url="#"]Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.
+		[/member]
+	[/column]
+[/row]
+[spacer size="30"]
+
+[row]
+	[column size="1/2"]
+		[member background="#ffffff" color="#666" border="1px solid #dddddd" shadow="0 1px 2px #eeeeee" radius="0" text_align="center" photo="images/sampledata/team/team6.jpg" name="Theodora" role="Project Manager" icon_1="icon: facebook" icon_1_url="#" icon_1_color="#666" icon_1_title="Facebook" icon_2="icon: twitter" icon_2_url="#" icon_2_color="#666" icon_2_title="Twitter" icon_3="icon: google-plus" icon_3_url="#" icon_3_color="#666" icon_3_title="Google-plus" icon_4="icon: linkedin" icon_4_url="#" icon_4_color="#666" icon_4_title="linkedin" icon_5="icon: flickr" icon_5_url="#" icon_5_color="#666" icon_5_title="flickr" icon_6="icon: pinterest" icon_6_url="#" icon_6_color="#333333" icon_6_title="Pinterest" url="#"]Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.
+		[/member]
+	[/column]
+	[column size="1/2"]
+		[member background="#ffffff" color="#666" border="1px solid #dddddd" shadow="0 1px 2px #eeeeee" radius="0" text_align="center" photo="images/sampledata/team/team4.jpg" name="Maximilian " role="Onsite Coordinator" icon_1="icon: facebook" icon_1_url="#" icon_1_color="#666" icon_1_title="Facebook" icon_2="icon: twitter" icon_2_url="#" icon_2_color="#666" icon_2_title="Twitter" icon_3="icon: google-plus" icon_3_url="#" icon_3_color="#666" icon_3_title="Google-plus" icon_4="icon: linkedin" icon_4_url="#" icon_4_color="#666" icon_4_title="linkedin" icon_5="icon: flickr" icon_5_url="#" icon_5_color="#666" icon_5_title="flickr" icon_6="icon: pinterest" icon_6_url="#" icon_6_color="#333333" icon_6_title="Pinterest" url="#"]Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.
+		[/member]
+	[/column]
+[/row]
+[spacer size="30"]
+
+[row]
+	[column size="1/2"]
+		[member background="#ffffff" color="#666" border="1px solid #dddddd" shadow="0 1px 2px #eeeeee" radius="0" text_align="center" photo="images/sampledata/team/team25.jpg" name="Raymond" role="Marketing Manager" icon_1="icon: facebook" icon_1_url="#" icon_1_color="#666" icon_1_title="Facebook" icon_2="icon: twitter" icon_2_url="#" icon_2_color="#666" icon_2_title="Twitter" icon_3="icon: google-plus" icon_3_url="#" icon_3_color="#666" icon_3_title="Google-plus" icon_4="icon: linkedin" icon_4_url="#" icon_4_color="#666" icon_4_title="linkedin" icon_5="icon: flickr" icon_5_url="#" icon_5_color="#666" icon_5_title="flickr" icon_6="icon: pinterest" icon_6_url="#" icon_6_color="#333333" icon_6_title="Pinterest" url="#"]Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.
+		[/member]
+	[/column]
+	[column size="1/2"]
+		[member background="#ffffff" color="#666" border="1px solid #dddddd" shadow="0 1px 2px #eeeeee" radius="0" text_align="center" photo="images/sampledata/team/team12.jpg" name="Gwendolen" role="Quality Auditor" icon_1="icon: facebook" icon_1_url="#" icon_1_color="#666" icon_1_title="Facebook" icon_2="icon: twitter" icon_2_url="#" icon_2_color="#666" icon_2_title="Twitter" icon_3="icon: google-plus" icon_3_url="#" icon_3_color="#666" icon_3_title="Google-plus" icon_4="icon: linkedin" icon_4_url="#" icon_4_color="#666" icon_4_title="linkedin" icon_5="icon: flickr" icon_5_url="#" icon_5_color="#666" icon_5_title="flickr" icon_6="icon: pinterest" icon_6_url="#" icon_6_color="#333333" icon_6_title="Pinterest" url="#"]Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.
+		[/member]
+	[/column]
+[/row]
+[spacer size="75"]]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Page</category>
+			<pubDate>Sun, 20 Apr 2014 11:57:31 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

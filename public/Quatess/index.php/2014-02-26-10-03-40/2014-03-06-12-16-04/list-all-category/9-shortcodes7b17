@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/shortcode-ultimate.css" type="text/css"?>
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/font-awesome.min.css" type="text/css"?>
+<?xml-stylesheet href="https://bdthemes.net/demo/joomla/framed/templates/framed/css/shortcodes.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">List all Categories</title>
+	<subtitle type="text">Framed Joomla Template is a high quality, simple, flat and clean template which build by Warp 7 Framework, also used lots of CSS3 effect with all modern browser supported.  You can use this template to different website, because it’s have live customizer with lots of admin customization features, so your website must be unique design. You can use this template for any kind of portfolio site, company, software firm, blog, personal website and more as you like…</subtitle>
+	<link rel="alternate" type="text/html" href="https://bdthemes.net"/>
+	<id>https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-16-04/list-all-category/9-shortcodes</id>
+	<updated>2018-04-02T21:37:37+00:00</updated>
+	<author>
+		<name>Framed Joomla Template</name>
+		<email>demo@bdthemes.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-16-04/list-all-category/9-shortcodes?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Shortcodes</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/shortcodes"/>
+		<published>2014-02-26T18:08:32+00:00</published>
+		<updated>2014-02-26T18:08:32+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/shortcodes</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;shortcode-home&quot;&gt;
+    &lt;h3 style=&quot;text-align:center;margin-bottom:0;&quot;&gt;SHORTCODE ULTIMATE&lt;/h3&gt;
+    [divider icon=&quot;icon: chevron-down&quot; icon_color=&quot;#8f8f8f&quot; margin_top=&quot;5&quot; margin_bottom=&quot;5&quot;]
+    &lt;p style=&quot;text-align:center;&quot;&gt;Shortcodes Ultimate is Joomla Plugin that provides mega pack of shortcodes (like wordpress shortcode system). It's included  [highlight]80+ shortcodes[/highlight] shortcodes  item. You can easily create Accordion, tabs, buttons, icon list, animate content, google map, content sliders, responsive audio and video, photo gallery, portfolio and much much more. Turn your template to a complex design in just a few menutes. Using Shortcodes Ultimate you can quickly and easily retrieve complex content features and display it on your site. check here all shortcode so you more understand why it's need you.&lt;/p&gt;
+
+    [spacer]
+
+    [row gutter=&quot;small&quot; equal_height=&quot;yes&quot;]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/accordion.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: th-list&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Accordion
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/animation.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: bolt&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Animation
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/audio.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: play-circle&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Audio
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/buttons.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: heart&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Buttons
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/box.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: list-alt&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Box Shortcode
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/pullquote.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: quote-left&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Blockquote
+            [/panel]
+        [/column]
+    [/row]
+
+
+    [row gutter=&quot;small&quot; equal_height=&quot;yes&quot;]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/call-to-action.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: pencil&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Call to Action
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/content-slider.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: desktop&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Content Slider
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/counter.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: sort-numeric-asc&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Counter
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/carousel.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: picture-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Carousel
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/custom-carousel.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: picture-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;]Custom Carousel
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/contact-form.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: envelope&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Contact Form
+            [/panel]
+        [/column]
+    [/row]
+
+
+    [row gutter=&quot;small&quot; equal_height=&quot;yes&quot;]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/countdown-timer.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: clock-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Countdown
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/dummy-text.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: text-height&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Dummy Text
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/dummy-image.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: picture-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Dummy image
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/dropcaps.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: bold&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Dropcaps
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/divider.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: ellipsis-h&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Divider
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/device-slider.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: tablet&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Divice Slider
+            [/panel]
+        [/column]
+    [/row]
+
+
+    [row gutter=&quot;small&quot; equal_height=&quot;yes&quot;]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/document.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: file-text&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Document
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/exit-bar.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: close&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Exit Bar
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/exit-popup.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: close&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Exit Popup
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/fancy-text.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon:  text-height&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Fency Text
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/frame.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: picture-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Frame Style
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/flickr.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: flickr&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Flickr Style
+            [/panel]
+        [/column]
+    [/row]
+
+    [row gutter=&quot;small&quot; equal_height=&quot;yes&quot;]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/file-download.html&quot; padding=&quot;10px&quot;]
+                  [icon icon=&quot;icon: download&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] File Download
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/flyout.html&quot; padding=&quot;10px&quot;]
+                  [icon icon=&quot;icon: paper-plane&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Flyout 
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/flip-box.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: files-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Flip Box
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/flip-book.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: file-pdf-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Flip Book
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/guests.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: user&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Guest
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/google-map.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: globe&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Google Map
+            [/panel]
+        [/column]
+    [/row]
+
+    [row gutter=&quot;small&quot; equal_height=&quot;yes&quot;]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/google-map-advanced.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: globe&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Gmap Advanced
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/heading.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: h-square&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Heading
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/highlights.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: pencil-square-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Highlights
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/icon.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: rocket&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Icon
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/icon-list.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: pencil&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Icon List
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/image-compare.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: image&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Image Compare
+            [/panel]
+        [/column]
+    [/row]
+
+    [row gutter=&quot;small&quot; equal_height=&quot;yes&quot;]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/image-zoom.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: image&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Image Zoom
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/instagram.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: instagram&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Instagram
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/light-box.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: external-link&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Light Box
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/livicon.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: cog&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] LivIcon
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/list.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: list-ol&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] List Style
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/load-module.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: cube&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Load Module
+            [/panel]
+        [/column]
+    [/row]
+
+    [row gutter=&quot;small&quot; equal_height=&quot;yes&quot;]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/member.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: users&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Member
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/modal.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: list-alt&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Modal
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/note.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: list-alt&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Note
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/news-ticker.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: file-text-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] News Ticker
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/panel.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: pencil-square-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Panel
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/photo-panel.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: pencil-square-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Photo Panel
+            [/panel]
+        [/column]
+    [/row]
+
+    [row gutter=&quot;small&quot; equal_height=&quot;yes&quot;]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/post-slider.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: picture-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Post Slider
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/pricing-table.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: table&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Pricing Table
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/progress-pie.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: star-half-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Progress Pie
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/progress-bar.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: star-half-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Progress bar
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/photo-gallery.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: picture-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Photo Gallery
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/portfolio.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: picture-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Portfolio
+            [/panel]
+        [/column]
+    [/row]
+
+    [row gutter=&quot;small&quot; equal_height=&quot;yes&quot;]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/post-grid.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: image&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Post Grid
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/qr-code.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: qrcode&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] QR code
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/columns.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: columns&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Row &amp; Columns
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/screenr.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: youtube-play&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Screenr
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/shadow.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: moon-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Shadow
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/spacer.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: arrows-v&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Spacer
+            [/panel]
+        [/column]
+    [/row]
+
+    [row gutter=&quot;small&quot; equal_height=&quot;yes&quot;]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/social-like.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: thumbs-o-up&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Social Like
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/social-lock.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: lock&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Social Locker
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/social-share.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: share-alt&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Social Share
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/social-feed.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: share-square-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Social Feed
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/social-gallery.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: th&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Social Gallery
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/section.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: arrows-alt&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Section
+            [/panel]
+        [/column]
+    [/row]
+    
+    [row gutter=&quot;small&quot; equal_height=&quot;yes&quot;]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/showcase.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: tasks&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Showcase
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/switcher.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: tasks&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Switcher
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/splash-screen.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: bullhorn&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Splash Screen
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/spoiler.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: list-ul&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Spoiler Style
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/table.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: table&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Table
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/tabs.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: list-alt&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Tabs Style
+            [/panel]
+        [/column]
+    [/row]
+    
+    [row gutter=&quot;small&quot; equal_height=&quot;yes&quot;]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/thumb-gallery.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: list-alt&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Thumb Gallery
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/testimonial.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: comments-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Testimonial
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/tooltip.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: comment-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Tooltip
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/timeline.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: calendar&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Timeline
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/trailer-box.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: picture-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Trailer Box
+            [/panel]
+        [/column]   
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/twitter.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: twitter&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Twitter
+            [/panel]
+        [/column]
+    [/row]
+
+    [row gutter=&quot;small&quot; equal_height=&quot;yes&quot;]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/user-content.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: lock&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] User Content
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/video.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: play-circle&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Video
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/vimeo.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: vimeo-square&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Vimeo
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/weather.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: cloud&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Weather
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/you-tube-advanced.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: youtube-play&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] YT Advanced
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/you-tube.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: youtube-play&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] You Tube
+            [/panel]
+        [/column]
+    [/row]
+&lt;/div&gt;
+[spacer size=&quot;50&quot;]</summary>
+		<content type="html">&lt;div class=&quot;shortcode-home&quot;&gt;
+    &lt;h3 style=&quot;text-align:center;margin-bottom:0;&quot;&gt;SHORTCODE ULTIMATE&lt;/h3&gt;
+    [divider icon=&quot;icon: chevron-down&quot; icon_color=&quot;#8f8f8f&quot; margin_top=&quot;5&quot; margin_bottom=&quot;5&quot;]
+    &lt;p style=&quot;text-align:center;&quot;&gt;Shortcodes Ultimate is Joomla Plugin that provides mega pack of shortcodes (like wordpress shortcode system). It's included  [highlight]80+ shortcodes[/highlight] shortcodes  item. You can easily create Accordion, tabs, buttons, icon list, animate content, google map, content sliders, responsive audio and video, photo gallery, portfolio and much much more. Turn your template to a complex design in just a few menutes. Using Shortcodes Ultimate you can quickly and easily retrieve complex content features and display it on your site. check here all shortcode so you more understand why it's need you.&lt;/p&gt;
+
+    [spacer]
+
+    [row gutter=&quot;small&quot; equal_height=&quot;yes&quot;]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/accordion.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: th-list&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Accordion
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/animation.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: bolt&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Animation
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/audio.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: play-circle&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Audio
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/buttons.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: heart&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Buttons
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/box.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: list-alt&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Box Shortcode
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/pullquote.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: quote-left&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Blockquote
+            [/panel]
+        [/column]
+    [/row]
+
+
+    [row gutter=&quot;small&quot; equal_height=&quot;yes&quot;]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/call-to-action.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: pencil&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Call to Action
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/content-slider.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: desktop&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Content Slider
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/counter.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: sort-numeric-asc&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Counter
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/carousel.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: picture-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Carousel
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/custom-carousel.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: picture-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;]Custom Carousel
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/contact-form.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: envelope&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Contact Form
+            [/panel]
+        [/column]
+    [/row]
+
+
+    [row gutter=&quot;small&quot; equal_height=&quot;yes&quot;]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/countdown-timer.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: clock-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Countdown
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/dummy-text.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: text-height&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Dummy Text
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/dummy-image.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: picture-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Dummy image
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/dropcaps.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: bold&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Dropcaps
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/divider.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: ellipsis-h&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Divider
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/device-slider.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: tablet&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Divice Slider
+            [/panel]
+        [/column]
+    [/row]
+
+
+    [row gutter=&quot;small&quot; equal_height=&quot;yes&quot;]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/document.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: file-text&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Document
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/exit-bar.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: close&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Exit Bar
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/exit-popup.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: close&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Exit Popup
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/fancy-text.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon:  text-height&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Fency Text
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/frame.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: picture-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Frame Style
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/flickr.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: flickr&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Flickr Style
+            [/panel]
+        [/column]
+    [/row]
+
+    [row gutter=&quot;small&quot; equal_height=&quot;yes&quot;]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/file-download.html&quot; padding=&quot;10px&quot;]
+                  [icon icon=&quot;icon: download&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] File Download
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/flyout.html&quot; padding=&quot;10px&quot;]
+                  [icon icon=&quot;icon: paper-plane&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Flyout 
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/flip-box.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: files-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Flip Box
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/flip-book.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: file-pdf-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Flip Book
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/guests.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: user&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Guest
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/google-map.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: globe&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Google Map
+            [/panel]
+        [/column]
+    [/row]
+
+    [row gutter=&quot;small&quot; equal_height=&quot;yes&quot;]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/google-map-advanced.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: globe&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Gmap Advanced
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/heading.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: h-square&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Heading
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/highlights.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: pencil-square-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Highlights
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/icon.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: rocket&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Icon
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/icon-list.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: pencil&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Icon List
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/image-compare.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: image&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Image Compare
+            [/panel]
+        [/column]
+    [/row]
+
+    [row gutter=&quot;small&quot; equal_height=&quot;yes&quot;]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/image-zoom.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: image&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Image Zoom
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/instagram.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: instagram&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Instagram
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/light-box.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: external-link&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Light Box
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/livicon.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: cog&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] LivIcon
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/list.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: list-ol&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] List Style
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/load-module.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: cube&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Load Module
+            [/panel]
+        [/column]
+    [/row]
+
+    [row gutter=&quot;small&quot; equal_height=&quot;yes&quot;]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/member.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: users&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Member
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/modal.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: list-alt&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Modal
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/note.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: list-alt&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Note
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/news-ticker.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: file-text-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] News Ticker
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/panel.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: pencil-square-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Panel
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/photo-panel.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: pencil-square-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Photo Panel
+            [/panel]
+        [/column]
+    [/row]
+
+    [row gutter=&quot;small&quot; equal_height=&quot;yes&quot;]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/post-slider.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: picture-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Post Slider
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/pricing-table.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: table&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Pricing Table
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/progress-pie.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: star-half-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Progress Pie
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/progress-bar.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: star-half-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Progress bar
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/photo-gallery.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: picture-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Photo Gallery
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/portfolio.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: picture-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Portfolio
+            [/panel]
+        [/column]
+    [/row]
+
+    [row gutter=&quot;small&quot; equal_height=&quot;yes&quot;]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/post-grid.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: image&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Post Grid
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/qr-code.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: qrcode&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] QR code
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/columns.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: columns&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Row &amp; Columns
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/screenr.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: youtube-play&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Screenr
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/shadow.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: moon-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Shadow
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/spacer.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: arrows-v&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Spacer
+            [/panel]
+        [/column]
+    [/row]
+
+    [row gutter=&quot;small&quot; equal_height=&quot;yes&quot;]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/social-like.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: thumbs-o-up&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Social Like
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/social-lock.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: lock&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Social Locker
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/social-share.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: share-alt&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Social Share
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/social-feed.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: share-square-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Social Feed
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/social-gallery.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: th&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Social Gallery
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/section.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: arrows-alt&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Section
+            [/panel]
+        [/column]
+    [/row]
+    
+    [row gutter=&quot;small&quot; equal_height=&quot;yes&quot;]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/showcase.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: tasks&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Showcase
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/switcher.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: tasks&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Switcher
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/splash-screen.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: bullhorn&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Splash Screen
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/spoiler.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: list-ul&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Spoiler Style
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/table.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: table&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Table
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/tabs.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: list-alt&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Tabs Style
+            [/panel]
+        [/column]
+    [/row]
+    
+    [row gutter=&quot;small&quot; equal_height=&quot;yes&quot;]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/thumb-gallery.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: list-alt&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Thumb Gallery
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/testimonial.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: comments-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Testimonial
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/tooltip.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: comment-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Tooltip
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/timeline.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: calendar&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Timeline
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/trailer-box.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: picture-o&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Trailer Box
+            [/panel]
+        [/column]   
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/twitter.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: twitter&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Twitter
+            [/panel]
+        [/column]
+    [/row]
+
+    [row gutter=&quot;small&quot; equal_height=&quot;yes&quot;]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/user-content.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: lock&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] User Content
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/video.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: play-circle&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Video
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/vimeo.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: vimeo-square&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Vimeo
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/weather.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: cloud&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] Weather
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/you-tube-advanced.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: youtube-play&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] YT Advanced
+            [/panel]
+        [/column]
+        [column size=&quot;1/6&quot; medium=&quot;1/3&quot; small=&quot;1/2&quot;]
+            [panel target=&quot;blank&quot; url=&quot;http://bdthemes.net/demo/joomla/shortcode/en/shortcodes/you-tube.html&quot; padding=&quot;10px&quot;]
+                [icon icon=&quot;icon: youtube-play&quot; icon_size=&quot;16&quot; background=&quot;transparent&quot; padding=&quot;0px&quot;] You Tube
+            [/panel]
+        [/column]
+    [/row]
+&lt;/div&gt;
+[spacer size=&quot;50&quot;]</content>
+		<category term="Shortcodes" />
+	</entry>
+</feed>

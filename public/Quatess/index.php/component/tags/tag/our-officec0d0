@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/shortcode-ultimate.css" type="text/css"?>
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/font-awesome.min.css" type="text/css"?>
+<?xml-stylesheet href="https://bdthemes.net/demo/joomla/framed/templates/framed/css/shortcodes.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Framed Joomla Template</title>
+		<description><![CDATA[Framed Joomla Template is a high quality, simple, flat and clean template which build by Warp 7 Framework, also used lots of CSS3 effect with all modern browser supported.  You can use this template to different website, because it’s have live customizer with lots of admin customization features, so your website must be unique design. You can use this template for any kind of portfolio site, company, software firm, blog, personal website and more as you like…]]></description>
+		<link>https://bdthemes.net/demo/joomla/framed/index.php/component/tags/tag/60</link>
+		<lastBuildDate>Mon, 02 Apr 2018 22:40:55 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://bdthemes.net/demo/joomla/framed/index.php/component/tags/tag/our-office?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>demo@bdthemes.com (Framed Joomla Template)</managingEditor>
+		<item>
+			<title>Our office</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/extra-pages/our-office</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/extra-pages/our-office</guid>
+			<description><![CDATA[[content_slider style="default" autoplay="5" speed="0.5"] 
+	[content_slide]<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/1200x300/02.jpg" alt="" />[/content_slide] 
+	[content_slide]<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/1200x300/04.jpg" alt="" />[/content_slide] 
+	[content_slide]<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/1200x300/06.jpg" alt="" />[/content_slide] 
+	[content_slide]<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/1200x300/07.jpg" alt="" />[/content_slide]
+[/content_slider]
+
+[spacer size="100"]
+
+[row]
+	[column size="1/2"]
+		[heading style="line-dark" heading="h3" color="#666" size="16" align="left" margin="20"]We Love To Work &amp; We Love Where We Work[/heading]
+		Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes nemo minima rerums unsers sadips amets. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui.[spacer size="20"] Ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Asunt in anim uis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla.[spacer size="20"] Our template is the perfect choice for your business. It’s loaded with features, options &amp; page layouts. Plus we have the best customer support around, but dont take our word for it, ask any of our 15,000+ users!
+	[/column]
+	[column size="1/2"]
+		[heading style="line-dark" heading="h3" color="#666" size="16" align="left" margin="15"]Our Location[/heading]
+		[gmap_advanced width="200" height="175" border="0px solid #cccccc" lat="24.824874643579022" lng="89.38262999446634" zoom_control="no" pan_control="no" street_view_control="no" map_location_marker="yes" address="New York" responsive="yes"]
+		[spacer]
+		<p>[heading style="default" heading="h4" color="#666" size="16" align="left" margin="20"]Located In Beautiful Bangladesh [/heading]</p>
+			<ul class="uk-list">
+			<li>[icon icon="icon: home" background="transparent" color="#666" size="12" radius="0" border="1px solid #ddd" padding="5px" margin="5px 5px 5px 0 "] 26 North Street, Kolony, Bogra-5800</li> 
+			<li>[icon icon="icon: phone" background="transparent" color="#666" size="12" radius="0" border="1px solid #ddd" padding="5px" margin="5px 5px 5px 0 "] +880-1718-542596</li>
+			<li>[icon icon="icon: envelope" background="transparent" color="#666" size="12" radius="0" border="1px solid #ddd" padding="5px" margin="5px 5px 5px 0 "] <a href="https://bdthemes.net/demo/joomla/framed/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-47-35/contact-item"> Contact Us</a></li>
+			<li>[icon icon="icon: envelope-o" background="transparent" color="#666" size="12" radius="0" border="1px solid #ddd" padding="5px" margin="5px 5px 5px 0 "]<a href="https://bdthemes.net/demo/joomla/framed/#"> yourdomain@domain.com </a></li>
+		</ul>
+	[/column]
+[/row]
+[spacer size="100"]
+[heading style="line-dark" heading="h3" color="#666" size="16" align="left" margin="20"] Our Workplace [/heading]
+[row]
+	[column size="1/4"]
+		<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/400x400/01.jpg" alt="" />
+	[/column]
+	[column size="1/4"]
+		<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/400x400/04.jpg" alt="" />
+	[/column]
+	[column size="1/4"]
+		<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/400x400/05.jpg" alt="" />
+	[/column]
+	[column size="1/4"]
+		<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/400x400/08.jpg" alt="" />
+	[/column]
+[/row]
+[spacer size="90"]]]></description>
+			<category>Our office</category>
+			<pubDate>Thu, 22 May 2014 17:00:19 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

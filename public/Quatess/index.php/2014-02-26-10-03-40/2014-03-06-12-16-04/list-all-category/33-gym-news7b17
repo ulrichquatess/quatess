@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/shortcode-ultimate.css" type="text/css"?>
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/font-awesome.min.css" type="text/css"?>
+<?xml-stylesheet href="https://bdthemes.net/demo/joomla/framed/templates/framed/css/shortcodes.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">List all Categories</title>
+	<subtitle type="text">Framed Joomla Template is a high quality, simple, flat and clean template which build by Warp 7 Framework, also used lots of CSS3 effect with all modern browser supported.  You can use this template to different website, because it’s have live customizer with lots of admin customization features, so your website must be unique design. You can use this template for any kind of portfolio site, company, software firm, blog, personal website and more as you like…</subtitle>
+	<link rel="alternate" type="text/html" href="https://bdthemes.net"/>
+	<id>https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-16-04/list-all-category/33-gym-news</id>
+	<updated>2018-04-02T21:39:50+00:00</updated>
+	<author>
+		<name>Framed Joomla Template</name>
+		<email>demo@bdthemes.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-16-04/list-all-category/33-gym-news?format=feed&amp;type=atom"/>
+	<entry>
+		<title>A wonderful serenity has</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-16-04/list-all-category/33-gym-news/199-news-1"/>
+		<published>2014-09-05T13:04:28+00:00</published>
+		<updated>2014-09-05T13:04:28+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-16-04/list-all-category/33-gym-news/199-news-1</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/zymnastics/news1.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. &lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/zymnastics/news1.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. &lt;/p&gt;</content>
+		<category term="Gym News" />
+	</entry>
+	<entry>
+		<title>Sed ut perspiciatis unde</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-16-04/list-all-category/33-gym-news/200-news-2"/>
+		<published>2014-09-05T13:04:28+00:00</published>
+		<updated>2014-09-05T13:04:28+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-16-04/list-all-category/33-gym-news/200-news-2</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/zymnastics/news2.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. &lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/zymnastics/news2.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. &lt;/p&gt;</content>
+		<category term="Gym News" />
+	</entry>
+	<entry>
+		<title>Far far away, behind</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-16-04/list-all-category/33-gym-news/201-news-3"/>
+		<published>2014-09-05T13:04:28+00:00</published>
+		<updated>2014-09-05T13:04:28+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-16-04/list-all-category/33-gym-news/201-news-3</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/zymnastics/news3.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. &lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/zymnastics/news3.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. &lt;/p&gt;</content>
+		<category term="Gym News" />
+	</entry>
+	<entry>
+		<title>Li Europan lingues es</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-16-04/list-all-category/33-gym-news/203-news-4"/>
+		<published>2014-09-05T13:04:28+00:00</published>
+		<updated>2014-09-05T13:04:28+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-16-04/list-all-category/33-gym-news/203-news-4</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/zymnastics/3.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. &lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/zymnastics/3.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. &lt;/p&gt;</content>
+		<category term="Gym News" />
+	</entry>
+</feed>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/shortcode-ultimate.css" type="text/css"?>
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/font-awesome.min.css" type="text/css"?>
+<?xml-stylesheet href="https://bdthemes.net/demo/joomla/framed/templates/framed/css/shortcodes.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Framed Joomla Template</title>
+	<subtitle type="text">Framed Joomla Template is a high quality, simple, flat and clean template which build by Warp 7 Framework, also used lots of CSS3 effect with all modern browser supported.  You can use this template to different website, because it’s have live customizer with lots of admin customization features, so your website must be unique design. You can use this template for any kind of portfolio site, company, software firm, blog, personal website and more as you like…</subtitle>
+	<link rel="alternate" type="text/html" href="https://bdthemes.net"/>
+	<id>https://bdthemes.net/demo/joomla/framed/index.php/component/tags/tag/christian-eberle</id>
+	<updated>2018-04-02T22:28:18+00:00</updated>
+	<author>
+		<name>Framed Joomla Template</name>
+		<email>demo@bdthemes.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://bdthemes.net/demo/joomla/framed/index.php/component/tags/tag/christian-eberle?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Christian Eberle</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/demo/joomla/framed/index.php/component/tags/?id=140:christian-eberle"/>
+		<published>2014-05-31T16:59:32+00:00</published>
+		<updated>2014-05-31T16:59:32+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php?id=140:christian-eberle</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<category term="Christian Eberle" />
+	</entry>
+</feed>

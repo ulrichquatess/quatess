@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/shortcode-ultimate.css" type="text/css"?>
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/font-awesome.min.css" type="text/css"?>
+<?xml-stylesheet href="https://bdthemes.net/demo/joomla/framed/templates/framed/css/shortcodes.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Framed Joomla Template</title>
+		<description><![CDATA[Framed Joomla Template is a high quality, simple, flat and clean template which build by Warp 7 Framework, also used lots of CSS3 effect with all modern browser supported.  You can use this template to different website, because it’s have live customizer with lots of admin customization features, so your website must be unique design. You can use this template for any kind of portfolio site, company, software firm, blog, personal website and more as you like…]]></description>
+		<link>https://bdthemes.net/demo/joomla/framed/index.php/component/tags/tag/94</link>
+		<lastBuildDate>Mon, 02 Apr 2018 22:29:35 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://bdthemes.net/demo/joomla/framed/index.php/component/tags/tag/seo?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>demo@bdthemes.com (Framed Joomla Template)</managingEditor>
+		<item>
+			<title>5 Joomla Plugins to Better SEO Your Blog || fa-joomla</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php?id=169:5-joomla-plugins-to-better-seo-your-blog-fa-joomla</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php?id=169:5-joomla-plugins-to-better-seo-your-blog-fa-joomla</guid>
+			<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+
+<p>Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</p>]]></description>
+			<category>5 Joomla Plugins to Better SEO Your Blog || fa-joomla</category>
+			<pubDate>Fri, 11 Jul 2014 00:29:28 +0000</pubDate>
+		</item>
+		<item>
+			<title>5 WordPress Plugins to Better SEO Your Blog Posts || fa-book</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php?id=175:5-wordpress-plugins-to-better-seo-your-blog-posts-fa-book</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php?id=175:5-wordpress-plugins-to-better-seo-your-blog-posts-fa-book</guid>
+			<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+
+<p>Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo</p>]]></description>
+			<category>5 WordPress Plugins to Better SEO Your Blog Posts || fa-book</category>
+			<pubDate>Mon, 02 Jan 2012 01:52:52 +0000</pubDate>
+		</item>
+		<item>
+			<title>How To Be An Effective In-house SEO || fa-search</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php?id=166:how-to-be-an-effective-in-house-seo-fa-search</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php?id=166:how-to-be-an-effective-in-house-seo-fa-search</guid>
+			<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+
+<p>Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</p>]]></description>
+			<category>How To Be An Effective In-house SEO || fa-search</category>
+			<pubDate>Fri, 11 Jul 2014 00:01:18 +0000</pubDate>
+		</item>
+		<item>
+			<title>How To Be An Effective In-house SEO enim justo || fa-spinner</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php?id=173:how-to-be-an-effective-in-house-seo-enim-justo-fa-spinner</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php?id=173:how-to-be-an-effective-in-house-seo-enim-justo-fa-spinner</guid>
+			<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+
+<p>Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo</p>]]></description>
+			<category>How To Be An Effective In-house SEO enim justo || fa-spinner</category>
+			<pubDate>Wed, 02 Jan 2013 01:40:17 +0000</pubDate>
+		</item>
+		<item>
+			<title>Top 10 SEO Myths to Ignore In enim justo in 2014 || fa-calendar</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php?id=178:top-10-seo-myths-to-ignore-in-enim-justo-in-2014-fa-calendar</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php?id=178:top-10-seo-myths-to-ignore-in-enim-justo-in-2014-fa-calendar</guid>
+			<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+
+<p>Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo</p>]]></description>
+			<category>Top 10 SEO Myths to Ignore In enim justo in 2014 || fa-calendar</category>
+			<pubDate>Sat, 02 Jul 2011 01:01:19 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

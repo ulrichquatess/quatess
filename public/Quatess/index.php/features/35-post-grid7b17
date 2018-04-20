@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/shortcode-ultimate.css" type="text/css"?>
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/font-awesome.min.css" type="text/css"?>
+<?xml-stylesheet href="https://bdthemes.net/demo/joomla/framed/templates/framed/css/shortcodes.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Features</title>
+	<subtitle type="text">Framed Joomla Template is a high quality, simple, flat and clean template which build by Warp 7 Framework, also used lots of CSS3 effect with all modern browser supported.  You can use this template to different website, because it’s have live customizer with lots of admin customization features, so your website must be unique design. You can use this template for any kind of portfolio site, company, software firm, blog, personal website and more as you like…</subtitle>
+	<link rel="alternate" type="text/html" href="https://bdthemes.net"/>
+	<id>https://bdthemes.net/demo/joomla/framed/index.php/features/35-post-grid</id>
+	<updated>2018-04-02T22:01:31+00:00</updated>
+	<author>
+		<name>Framed Joomla Template</name>
+		<email>demo@bdthemes.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://bdthemes.net/demo/joomla/framed/index.php/features/35-post-grid?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Blog Column 3</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/blog/blog-column-3"/>
+		<published>2015-09-20T15:58:43+00:00</published>
+		<updated>2015-09-20T15:58:43+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/blog/blog-column-3</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">[post_grid source=&quot;k2-category: 11,12,13,14,15,&quot; limit=&quot;9&quot; show_more=&quot;yes&quot; show_more_item=&quot;3&quot; order=&quot;title&quot; loading_animation=&quot;fadeIn&quot; filter_animation=&quot;slideLeft&quot; caption_style=&quot;overlayRightAlong&quot; filter_style=&quot;3&quot; large=&quot;3&quot; thumb_height=&quot;420&quot;]</summary>
+		<content type="html">[post_grid source=&quot;k2-category: 11,12,13,14,15,&quot; limit=&quot;9&quot; show_more=&quot;yes&quot; show_more_item=&quot;3&quot; order=&quot;title&quot; loading_animation=&quot;fadeIn&quot; filter_animation=&quot;slideLeft&quot; caption_style=&quot;overlayRightAlong&quot; filter_style=&quot;3&quot; large=&quot;3&quot; thumb_height=&quot;420&quot;]</content>
+		<category term="post grid" />
+	</entry>
+	<entry>
+		<title>Blog Column 6</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/blog/blog-column-6"/>
+		<published>2015-09-20T15:58:02+00:00</published>
+		<updated>2015-09-20T15:58:02+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/blog/blog-column-6</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">[section force_fullwidth=&quot;yes&quot;]
+[post_grid source=&quot;k2-category: 11,12,13,14,15,&quot; limit=&quot;12&quot; show_more=&quot;yes&quot; show_more_item=&quot;6&quot; order=&quot;title&quot; loading_animation=&quot;bottomToTop&quot; filter_animation=&quot;unfold&quot; caption_style=&quot;opacity&quot; filter_style=&quot;9&quot; filter_align=&quot;right&quot; large=&quot;6&quot;]
+[/section]</summary>
+		<content type="html">[section force_fullwidth=&quot;yes&quot;]
+[post_grid source=&quot;k2-category: 11,12,13,14,15,&quot; limit=&quot;12&quot; show_more=&quot;yes&quot; show_more_item=&quot;6&quot; order=&quot;title&quot; loading_animation=&quot;bottomToTop&quot; filter_animation=&quot;unfold&quot; caption_style=&quot;opacity&quot; filter_style=&quot;9&quot; filter_align=&quot;right&quot; large=&quot;6&quot;]
+[/section]</content>
+		<category term="post grid" />
+	</entry>
+	<entry>
+		<title>Blog Column 5</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/blog/blog-column-5"/>
+		<published>2015-09-20T15:57:44+00:00</published>
+		<updated>2015-09-20T15:57:44+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/blog/blog-column-5</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">[section force_fullwidth=&quot;yes&quot;]
+	[post_grid source=&quot;k2-category: 11,12,13,14,15&quot; limit=&quot;10&quot; show_more=&quot;yes&quot; show_more_item=&quot;5&quot; order=&quot;title&quot; loading_animation=&quot;sequentially&quot; filter_animation=&quot;flipOutDelay&quot; caption_style=&quot;zoom&quot; filter_style=&quot;6&quot; large=&quot;5&quot; filter_align=&quot;right&quot;]
+[/section]</summary>
+		<content type="html">[section force_fullwidth=&quot;yes&quot;]
+	[post_grid source=&quot;k2-category: 11,12,13,14,15&quot; limit=&quot;10&quot; show_more=&quot;yes&quot; show_more_item=&quot;5&quot; order=&quot;title&quot; loading_animation=&quot;sequentially&quot; filter_animation=&quot;flipOutDelay&quot; caption_style=&quot;zoom&quot; filter_style=&quot;6&quot; large=&quot;5&quot; filter_align=&quot;right&quot;]
+[/section]</content>
+		<category term="post grid" />
+	</entry>
+	<entry>
+		<title>Blog Column 4</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/blog/blog-column-4"/>
+		<published>2015-09-20T15:57:23+00:00</published>
+		<updated>2015-09-20T15:57:23+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/blog/blog-column-4</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">[post_grid source=&quot;k2-category:11,12,13,14,15,&quot; limit=&quot;8&quot; show_more=&quot;yes&quot; show_more_item=&quot;4&quot; order=&quot;title&quot; loading_animation=&quot;lazyLoading&quot; filter_animation=&quot;sequentially&quot; caption_style=&quot;minimal&quot; filter_style=&quot;5&quot; filter_align=&quot;center&quot;]</summary>
+		<content type="html">[post_grid source=&quot;k2-category:11,12,13,14,15,&quot; limit=&quot;8&quot; show_more=&quot;yes&quot; show_more_item=&quot;4&quot; order=&quot;title&quot; loading_animation=&quot;lazyLoading&quot; filter_animation=&quot;sequentially&quot; caption_style=&quot;minimal&quot; filter_style=&quot;5&quot; filter_align=&quot;center&quot;]</content>
+		<category term="post grid" />
+	</entry>
+	<entry>
+		<title>Blog Column 2</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/blog/blog-column-2"/>
+		<published>2015-09-20T15:56:30+00:00</published>
+		<updated>2015-09-20T15:56:30+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/blog/blog-column-2</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">[post_grid source=&quot;k2-category:11,12,13,14,15,&quot; show_more=&quot;yes&quot; show_more_item=&quot;2&quot; limit=&quot;10&quot; order=&quot;title&quot; caption_style=&quot;overlayBottom&quot; large=&quot;2&quot; thumb_height=&quot;350&quot;]</summary>
+		<content type="html">[post_grid source=&quot;k2-category:11,12,13,14,15,&quot; show_more=&quot;yes&quot; show_more_item=&quot;2&quot; limit=&quot;10&quot; order=&quot;title&quot; caption_style=&quot;overlayBottom&quot; large=&quot;2&quot; thumb_height=&quot;350&quot;]</content>
+		<category term="post grid" />
+	</entry>
+</feed>

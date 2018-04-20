@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/shortcode-ultimate.css" type="text/css"?>
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/font-awesome.min.css" type="text/css"?>
+<?xml-stylesheet href="https://bdthemes.net/demo/joomla/framed/templates/framed/css/shortcodes.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Framed Joomla Template</title>
+	<subtitle type="text">Framed Joomla Template is a high quality, simple, flat and clean template which build by Warp 7 Framework, also used lots of CSS3 effect with all modern browser supported.  You can use this template to different website, because it’s have live customizer with lots of admin customization features, so your website must be unique design. You can use this template for any kind of portfolio site, company, software firm, blog, personal website and more as you like…</subtitle>
+	<link rel="alternate" type="text/html" href="https://bdthemes.net"/>
+	<id>https://bdthemes.net/demo/joomla/framed/index.php/component/tags/tag/our-office</id>
+	<updated>2018-04-02T22:40:56+00:00</updated>
+	<author>
+		<name>Framed Joomla Template</name>
+		<email>demo@bdthemes.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://bdthemes.net/demo/joomla/framed/index.php/component/tags/tag/our-office?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Our office</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/extra-pages/our-office"/>
+		<published>2014-05-22T17:00:19+00:00</published>
+		<updated>2014-05-22T17:00:19+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/extra-pages/our-office</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">[content_slider style=&quot;default&quot; autoplay=&quot;5&quot; speed=&quot;0.5&quot;] 
+	[content_slide]&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/1200x300/02.jpg&quot; alt=&quot;&quot; /&gt;[/content_slide] 
+	[content_slide]&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/1200x300/04.jpg&quot; alt=&quot;&quot; /&gt;[/content_slide] 
+	[content_slide]&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/1200x300/06.jpg&quot; alt=&quot;&quot; /&gt;[/content_slide] 
+	[content_slide]&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/1200x300/07.jpg&quot; alt=&quot;&quot; /&gt;[/content_slide]
+[/content_slider]
+
+[spacer size=&quot;100&quot;]
+
+[row]
+	[column size=&quot;1/2&quot;]
+		[heading style=&quot;line-dark&quot; heading=&quot;h3&quot; color=&quot;#666&quot; size=&quot;16&quot; align=&quot;left&quot; margin=&quot;20&quot;]We Love To Work &amp;amp; We Love Where We Work[/heading]
+		Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes nemo minima rerums unsers sadips amets. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui.[spacer size=&quot;20&quot;] Ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Asunt in anim uis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla.[spacer size=&quot;20&quot;] Our template is the perfect choice for your business. It’s loaded with features, options &amp;amp; page layouts. Plus we have the best customer support around, but dont take our word for it, ask any of our 15,000+ users!
+	[/column]
+	[column size=&quot;1/2&quot;]
+		[heading style=&quot;line-dark&quot; heading=&quot;h3&quot; color=&quot;#666&quot; size=&quot;16&quot; align=&quot;left&quot; margin=&quot;15&quot;]Our Location[/heading]
+		[gmap_advanced width=&quot;200&quot; height=&quot;175&quot; border=&quot;0px solid #cccccc&quot; lat=&quot;24.824874643579022&quot; lng=&quot;89.38262999446634&quot; zoom_control=&quot;no&quot; pan_control=&quot;no&quot; street_view_control=&quot;no&quot; map_location_marker=&quot;yes&quot; address=&quot;New York&quot; responsive=&quot;yes&quot;]
+		[spacer]
+		&lt;p&gt;[heading style=&quot;default&quot; heading=&quot;h4&quot; color=&quot;#666&quot; size=&quot;16&quot; align=&quot;left&quot; margin=&quot;20&quot;]Located In Beautiful Bangladesh [/heading]&lt;/p&gt;
+			&lt;ul class=&quot;uk-list&quot;&gt;
+			&lt;li&gt;[icon icon=&quot;icon: home&quot; background=&quot;transparent&quot; color=&quot;#666&quot; size=&quot;12&quot; radius=&quot;0&quot; border=&quot;1px solid #ddd&quot; padding=&quot;5px&quot; margin=&quot;5px 5px 5px 0 &quot;] 26 North Street, Kolony, Bogra-5800&lt;/li&gt; 
+			&lt;li&gt;[icon icon=&quot;icon: phone&quot; background=&quot;transparent&quot; color=&quot;#666&quot; size=&quot;12&quot; radius=&quot;0&quot; border=&quot;1px solid #ddd&quot; padding=&quot;5px&quot; margin=&quot;5px 5px 5px 0 &quot;] +880-1718-542596&lt;/li&gt;
+			&lt;li&gt;[icon icon=&quot;icon: envelope&quot; background=&quot;transparent&quot; color=&quot;#666&quot; size=&quot;12&quot; radius=&quot;0&quot; border=&quot;1px solid #ddd&quot; padding=&quot;5px&quot; margin=&quot;5px 5px 5px 0 &quot;] &lt;a href=&quot;https://bdthemes.net/demo/joomla/framed/index.php?option=com_contact&amp;view=contact&amp;id=2&amp;Itemid=176&quot;&gt; Contact Us&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;[icon icon=&quot;icon: envelope-o&quot; background=&quot;transparent&quot; color=&quot;#666&quot; size=&quot;12&quot; radius=&quot;0&quot; border=&quot;1px solid #ddd&quot; padding=&quot;5px&quot; margin=&quot;5px 5px 5px 0 &quot;]&lt;a href=&quot;https://bdthemes.net/demo/joomla/framed/#&quot;&gt; yourdomain@domain.com &lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+	[/column]
+[/row]
+[spacer size=&quot;100&quot;]
+[heading style=&quot;line-dark&quot; heading=&quot;h3&quot; color=&quot;#666&quot; size=&quot;16&quot; align=&quot;left&quot; margin=&quot;20&quot;] Our Workplace [/heading]
+[row]
+	[column size=&quot;1/4&quot;]
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/400x400/01.jpg&quot; alt=&quot;&quot; /&gt;
+	[/column]
+	[column size=&quot;1/4&quot;]
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/400x400/04.jpg&quot; alt=&quot;&quot; /&gt;
+	[/column]
+	[column size=&quot;1/4&quot;]
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/400x400/05.jpg&quot; alt=&quot;&quot; /&gt;
+	[/column]
+	[column size=&quot;1/4&quot;]
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/400x400/08.jpg&quot; alt=&quot;&quot; /&gt;
+	[/column]
+[/row]
+[spacer size=&quot;90&quot;]</summary>
+		<content type="html">[content_slider style=&quot;default&quot; autoplay=&quot;5&quot; speed=&quot;0.5&quot;] 
+	[content_slide]&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/1200x300/02.jpg&quot; alt=&quot;&quot; /&gt;[/content_slide] 
+	[content_slide]&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/1200x300/04.jpg&quot; alt=&quot;&quot; /&gt;[/content_slide] 
+	[content_slide]&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/1200x300/06.jpg&quot; alt=&quot;&quot; /&gt;[/content_slide] 
+	[content_slide]&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/1200x300/07.jpg&quot; alt=&quot;&quot; /&gt;[/content_slide]
+[/content_slider]
+
+[spacer size=&quot;100&quot;]
+
+[row]
+	[column size=&quot;1/2&quot;]
+		[heading style=&quot;line-dark&quot; heading=&quot;h3&quot; color=&quot;#666&quot; size=&quot;16&quot; align=&quot;left&quot; margin=&quot;20&quot;]We Love To Work &amp;amp; We Love Where We Work[/heading]
+		Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes nemo minima rerums unsers sadips amets. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui.[spacer size=&quot;20&quot;] Ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Asunt in anim uis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla.[spacer size=&quot;20&quot;] Our template is the perfect choice for your business. It’s loaded with features, options &amp;amp; page layouts. Plus we have the best customer support around, but dont take our word for it, ask any of our 15,000+ users!
+	[/column]
+	[column size=&quot;1/2&quot;]
+		[heading style=&quot;line-dark&quot; heading=&quot;h3&quot; color=&quot;#666&quot; size=&quot;16&quot; align=&quot;left&quot; margin=&quot;15&quot;]Our Location[/heading]
+		[gmap_advanced width=&quot;200&quot; height=&quot;175&quot; border=&quot;0px solid #cccccc&quot; lat=&quot;24.824874643579022&quot; lng=&quot;89.38262999446634&quot; zoom_control=&quot;no&quot; pan_control=&quot;no&quot; street_view_control=&quot;no&quot; map_location_marker=&quot;yes&quot; address=&quot;New York&quot; responsive=&quot;yes&quot;]
+		[spacer]
+		&lt;p&gt;[heading style=&quot;default&quot; heading=&quot;h4&quot; color=&quot;#666&quot; size=&quot;16&quot; align=&quot;left&quot; margin=&quot;20&quot;]Located In Beautiful Bangladesh [/heading]&lt;/p&gt;
+			&lt;ul class=&quot;uk-list&quot;&gt;
+			&lt;li&gt;[icon icon=&quot;icon: home&quot; background=&quot;transparent&quot; color=&quot;#666&quot; size=&quot;12&quot; radius=&quot;0&quot; border=&quot;1px solid #ddd&quot; padding=&quot;5px&quot; margin=&quot;5px 5px 5px 0 &quot;] 26 North Street, Kolony, Bogra-5800&lt;/li&gt; 
+			&lt;li&gt;[icon icon=&quot;icon: phone&quot; background=&quot;transparent&quot; color=&quot;#666&quot; size=&quot;12&quot; radius=&quot;0&quot; border=&quot;1px solid #ddd&quot; padding=&quot;5px&quot; margin=&quot;5px 5px 5px 0 &quot;] +880-1718-542596&lt;/li&gt;
+			&lt;li&gt;[icon icon=&quot;icon: envelope&quot; background=&quot;transparent&quot; color=&quot;#666&quot; size=&quot;12&quot; radius=&quot;0&quot; border=&quot;1px solid #ddd&quot; padding=&quot;5px&quot; margin=&quot;5px 5px 5px 0 &quot;] &lt;a href=&quot;https://bdthemes.net/demo/joomla/framed/index.php?option=com_contact&amp;view=contact&amp;id=2&amp;Itemid=176&quot;&gt; Contact Us&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;[icon icon=&quot;icon: envelope-o&quot; background=&quot;transparent&quot; color=&quot;#666&quot; size=&quot;12&quot; radius=&quot;0&quot; border=&quot;1px solid #ddd&quot; padding=&quot;5px&quot; margin=&quot;5px 5px 5px 0 &quot;]&lt;a href=&quot;https://bdthemes.net/demo/joomla/framed/#&quot;&gt; yourdomain@domain.com &lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+	[/column]
+[/row]
+[spacer size=&quot;100&quot;]
+[heading style=&quot;line-dark&quot; heading=&quot;h3&quot; color=&quot;#666&quot; size=&quot;16&quot; align=&quot;left&quot; margin=&quot;20&quot;] Our Workplace [/heading]
+[row]
+	[column size=&quot;1/4&quot;]
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/400x400/01.jpg&quot; alt=&quot;&quot; /&gt;
+	[/column]
+	[column size=&quot;1/4&quot;]
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/400x400/04.jpg&quot; alt=&quot;&quot; /&gt;
+	[/column]
+	[column size=&quot;1/4&quot;]
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/400x400/05.jpg&quot; alt=&quot;&quot; /&gt;
+	[/column]
+	[column size=&quot;1/4&quot;]
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/workplace/400x400/08.jpg&quot; alt=&quot;&quot; /&gt;
+	[/column]
+[/row]
+[spacer size=&quot;90&quot;]</content>
+		<category term="Our office" />
+	</entry>
+</feed>

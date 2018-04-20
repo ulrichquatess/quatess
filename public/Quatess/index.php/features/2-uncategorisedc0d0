@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/shortcode-ultimate.css" type="text/css"?>
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/font-awesome.min.css" type="text/css"?>
+<?xml-stylesheet href="https://bdthemes.net/demo/joomla/framed/templates/framed/css/shortcodes.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Features</title>
+		<description><![CDATA[Framed Joomla Template is a high quality, simple, flat and clean template which build by Warp 7 Framework, also used lots of CSS3 effect with all modern browser supported.  You can use this template to different website, because it’s have live customizer with lots of admin customization features, so your website must be unique design. You can use this template for any kind of portfolio site, company, software firm, blog, personal website and more as you like…]]></description>
+		<link>https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-16-04/category-list</link>
+		<lastBuildDate>Mon, 02 Apr 2018 21:58:17 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://bdthemes.net/demo/joomla/framed/index.php/features/2-uncategorised?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>demo@bdthemes.com (Framed Joomla Template)</managingEditor>
+		<item>
+			<title>K2 PROJECTS</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/features/k2-projects-template</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/features/k2-projects-template</guid>
+			<description><![CDATA[[portfolio source="k2-category: 13,14,15,16,17,18,19" layout="masonry" style="3" limit="15" filter_align="center" show_more="yes" filter_animation="slideDelay" horizontal_gap="0" vertical_gap="0" filter_style="8" medium="2"]]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Uncategorised</category>
+			<pubDate>Wed, 23 Mar 2016 19:18:09 +0000</pubDate>
+		</item>
+		<item>
+			<title>Photo Gallery 6</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/features/photo-gallery-6-column</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/features/photo-gallery-6-column</guid>
+			<description><![CDATA[[section background_color="transparent" background_size="auto" color="#444444" text_align="center" padding="30px 0" force_fullwidth="yes"]
+	[photo_gallery source="k2-category: 1" limit="12" large="6" style="2"]
+[/section]]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Uncategorised</category>
+			<pubDate>Mon, 26 Oct 2015 16:41:05 +0000</pubDate>
+		</item>
+		<item>
+			<title>Photo Gallery 5</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/features/photo-gallery-5-column</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/features/photo-gallery-5-column</guid>
+			<description><![CDATA[[photo_gallery source="k2-category: 1" limit="10" large="5" style="4"]]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Uncategorised</category>
+			<pubDate>Mon, 26 Oct 2015 16:40:40 +0000</pubDate>
+		</item>
+		<item>
+			<title>Photo Gallery 4</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/features/photo-gallery-4-column</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/features/photo-gallery-4-column</guid>
+			<description><![CDATA[	[photo_gallery source="k2-category: 1" limit="12" large="4" style="3"]]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Uncategorised</category>
+			<pubDate>Mon, 26 Oct 2015 16:40:18 +0000</pubDate>
+		</item>
+		<item>
+			<title>Photo Gallery 3</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/features/photo-gallery-3-column</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/features/photo-gallery-3-column</guid>
+			<description><![CDATA[	[photo_gallery source="k2-category: 1" limit="9" large="3"  width="370" height="237" style="2"]]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Uncategorised</category>
+			<pubDate>Mon, 26 Oct 2015 16:39:44 +0000</pubDate>
+		</item>
+		<item>
+			<title>Photo Gallery 2</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/features/photo-gallery-2-column</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/features/photo-gallery-2-column</guid>
+			<description><![CDATA[	[photo_gallery source="k2-category: 1" limit="8" large="2"  width="560" height="358"]]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Uncategorised</category>
+			<pubDate>Mon, 26 Oct 2015 16:39:10 +0000</pubDate>
+		</item>
+		<item>
+			<title>Sliders</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/sliders</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/sliders</guid>
+			<description><![CDATA[[row]
+
+[column size="1/3"][panel url="?option=com_content&amp;view=featured&amp;Itemid=210"][icon_list_item title="Simple Slider" icon="icon: image" icon_border="1px solid #cccccc" icon_align="top"]This template fits with width and height of screen which provides you larg place to put your slider, you can also have HD video playing on your background of slider.[/icon_list_item][/panel][/column]
+
+[column size="1/3"][panel url="?option=com_content&amp;view=featured&amp;Itemid=215"][icon_list_item title="Partial View1" icon="icon: camera-retro" icon_border="1px solid #cccccc" icon_align="top"]This template shows one complete slide plus two partial of nearby slides at a same time which it increases the interest of seeing other slides by the visitors.[/icon_list_item][/panel][/column]
+
+[column size="1/3"][panel url="?option=com_content&amp;view=featured&amp;Itemid=216"][icon_list_item title="Partial View2" icon="icon: file-photo-o" icon_border="1px solid #cccccc" icon_align="top"]This template shows one complete slide plus two partial of nearby slides at a same time which it increases the interest of seeing other slides by the visitors.[/icon_list_item][/panel][/column]
+[/row]
+[spacer]
+
+[row]
+
+[column size="1/3"][panel url="?option=com_content&amp;view=featured&amp;Itemid=217"][icon_list_item title="Partial View3" icon="icon: photo" icon_border="1px solid #cccccc" icon_align="top"]This template shows one complete slide plus three partial of nearby slides at a same time which it increases the interest of seeing other slides by the visitors.[/icon_list_item][/panel][/column]
+
+[column size="1/3"][panel url="?option=com_content&amp;view=featured&amp;Itemid=212"][icon_list_item title="Flow 3D Carousel" icon="icon: stack-overflow" icon_border="1px solid #cccccc" icon_align="top"]This template shows one complete slide plus Flow 3D Carousel of nearby slides at a same time which it increases the interest of seeing other slides by the visitors.[/icon_list_item][/panel][/column]
+
+[column size="1/3"][panel url="?option=com_content&amp;view=featured&amp;Itemid=213"][icon_list_item title="Wave 3D Carousel" icon="icon: file-photo-o" icon_border="1px solid #cccccc" icon_align="top"]This template shows one complete slide plus Wave #d Carousel of nearby slides at a same time which it increases the interest of seeing other slides by the visitors.[/icon_list_item][/panel][/column]
+[/row]
+[spacer]
+
+[row]
+
+[column size="1/3"][panel url="?option=com_content&amp;view=featured&amp;Itemid=211"][icon_list_item title="Laptop Display Slider" icon="icon: laptop" icon_border="1px solid #cccccc" icon_align="top"]With this template put your images on a laptop and make it alive with nice effect, you will be able to add images and even videos easily, it also supports tooltips[/icon_list_item][/panel][/column]
+
+[column size="1/3"][panel url="https://bdthemes.net/demo/joomla/framed/index.php?option=com_content&amp;view=featured&amp;Itemid=214"][icon_list_item title="Desktop Display Slider" icon="icon: desktop" icon_border="1px solid #cccccc" icon_align="top"]With this template put your images on a display and make it alive with nice 3d effect, you will be able to add images and even videos easily, it also supports tooltips.[/icon_list_item][/panel][/column]
+
+[column size="1/3"][panel url="?option=com_content&amp;view=featured&amp;Itemid=218"][icon_list_item title="Horizontal Tab Slider" icon="icon: image" icon_border="1px solid #cccccc" icon_align="top"]This template considers one tab for each slide which it shows the tabs as thumbnails, you can put html content in tabs. You can change the size of each tab easily by using css.[/icon_list_item][/panel][/column]
+[/row]
+[spacer]
+
+[row]
+
+[column size="1/3"][panel url="?option=com_content&amp;view=featured&amp;Itemid=219"][icon_list_item title="Vertical Tab Slider" icon="icon: photo" icon_border="1px solid #cccccc" icon_align="top"]This template considers one tab for each slide which it shows the tabs as thumbnails, you can put html content in tabs. You can change the size of each tab easily by using css.[/icon_list_item][/panel][/column]
+
+[column size="1/3"][panel url="?option=com_content&amp;view=featured&amp;Itemid=135"][icon_list_item title="Full Width Slider" icon="icon: desktop" icon_border="1px solid #cccccc" icon_align="top"]This template shows one complete full width slider slide plus of nearby slides at a same time which it increases the interest of seeing other slides by the visitors.[/icon_list_item][/panel][/column]
+
+[column size="1/3"][panel url="#"][icon_list_item title="Box Slider" icon="icon: laptop" icon_border="1px solid #cccccc" icon_align="top"]This template shows one complete slide plus two partial of nearby slides at a same time which it increases the interest of seeing other slides by the visitors.[/icon_list_item][/panel][/column]
+[/row]
+[spacer]
+
+[row]
+
+[column size="1/3"][panel url="#"][icon_list_item title="Simple Slider" icon="icon: image" icon_border="1px solid #cccccc" icon_align="top"]This template fits with width and height of screen which provides you larg place to put your slider, you can also have HD video playing on your background of slider.[/icon_list_item][/panel][/column]
+
+[column size="1/3"][panel url="?option=com_content&amp;view=article&amp;id=128&amp;Itemid=312"][icon_list_item title="Image With Text Slider" icon="icon: image" icon_border="1px solid #cccccc" icon_align="top"]This template shows one complete slide plus image with text slider of nearby slides at a same time which it increases the interest of seeing other slides by the visitors.[/icon_list_item][/panel][/column]
+
+[column size="1/3"][panel url="?option=com_content&amp;view=article&amp;id=129&amp;Itemid=314"][icon_list_item title="Content Image Slider" icon="icon: photo" icon_border="1px solid #cccccc" icon_align="top"]This template shows one complete slide plus content image slider of nearby slides at a same time which it increases the interest of seeing other slides by the visitors.[/icon_list_item][/panel][/column]
+[/row]
+[spacer]
+
+]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Uncategorised</category>
+			<pubDate>Sun, 20 Jul 2014 18:03:15 +0000</pubDate>
+		</item>
+		<item>
+			<title>KEEP IN TOUCH</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-16-04/category-list/130-keep-in-touch</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-16-04/category-list/130-keep-in-touch</guid>
+			<description><![CDATA[[icon icon="icon: twitter" background="transparent" color="#333333" size="24" radius="256" shape_size="10" border="0px solid #444444"]
+[icon icon="icon: twitter" background="transparent" color="#333333" size="24" radius="256" shape_size="10" border="0px solid #444444"]
+[icon icon="icon: twitter" background="transparent" color="#333333" size="24" radius="256" shape_size="10" border="0px solid #444444"]
+[icon icon="icon: twitter" background="transparent" color="#333333" size="24" radius="256" shape_size="10" border="0px solid #444444"]
+[icon icon="icon: twitter" background="transparent" color="#333333" size="24" radius="256" shape_size="10" border="0px solid #444444"]
+[icon icon="icon: twitter" background="transparent" color="#333333" size="24" radius="256" shape_size="10" border="0px solid #444444"]
+[icon icon="icon: twitter" background="transparent" color="#333333" size="24" radius="256" shape_size="10" border="0px solid #444444"]
+[icon icon="icon: twitter" background="transparent" color="#333333" size="24" radius="256" shape_size="10" border="0px solid #444444"]
+[icon icon="icon: twitter" background="transparent" color="#333333" size="24" radius="256" shape_size="10" border="0px solid #444444"]]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Uncategorised</category>
+			<pubDate>Wed, 07 May 2014 11:48:44 +0000</pubDate>
+		</item>
+		<item>
+			<title>Content Image Slider</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/sliders/2014-04-29-09-41-26/content-image-slider</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/sliders/2014-04-29-09-41-26/content-image-slider</guid>
+			<description><![CDATA[[content_slider style="light" effect="slide" arrows="hover" pages="no" autoplay="yes" speed="0.5"]
+	[content_slide]
+		<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/slider/slideshow/slide01.jpg" alt="">
+	[/content_slide]
+	[content_slide]
+		<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/slider/slideshow/slide03.jpg" alt="">
+	[/content_slide]
+	[content_slide]
+		<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/slider/slideshow/slide04.jpg" alt="">
+	[/content_slide]
+[/content_slider]
+]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Uncategorised</category>
+			<pubDate>Tue, 29 Apr 2014 17:08:46 +0000</pubDate>
+		</item>
+		<item>
+			<title>Color Variation</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/home-page/color-variation</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/home-page/color-variation</guid>
+			<description><![CDATA[[row][column size="1/2"]
+	<a href="https://bdthemes.net/demo/joomla/framed/demo/joomla/framed/index.php">
+		<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/preset/default.png" alt="" />
+	</a>
+	[heading style="default" heading="h3" color="#666" size="16" align="center" margin="20"]<a href="https://bdthemes.net/demo/joomla/framed/demo/joomla/framed/index.php">Default Color Variation</a>[/heading]
+[/column]
+[column size="1/2"]
+	<a href="https://bdthemes.net/demo/joomla/framed/demo/joomla/framed/index.php/home-page/home-page-variation-2">
+		<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/preset/Alizarin.png" alt="" />
+	</a>
+	[heading style="default" heading="h3" color="#666" size="16" align="center" margin="20"]<a href="https://bdthemes.net/demo/joomla/framed/demo/joomla/framed/index.php/home-page/home-page-variation-2">Bitter Sweet Color Variation</a>[/heading]
+[/column][/row]
+
+[row][column size="1/2"]
+	<a href="https://bdthemes.net/demo/joomla/framed/demo/joomla/framed/index.php/home-page/home-page-variation-3">
+		<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/preset/Peter-River.png" alt="" />
+	</a>
+	[heading style="default" heading="h3" color="#666" size="16" align="center" margin="20"]<a href="https://bdthemes.net/demo/joomla/framed/demo/joomla/framed/index.php/home-page/home-page-variation-3">Grapefruit Color Variation</a>[/heading]
+[/column]
+[column size="1/2"]
+	<a href="https://bdthemes.net/demo/joomla/framed/demo/joomla/framed/index.php/home-page/home-page-variation-4">
+		<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/preset/transparent.png" alt="" />
+	</a>
+	[heading style="default" heading="h3" color="#666" size="16" align="center" margin="20"]<a href="https://bdthemes.net/demo/joomla/framed/demo/joomla/framed/index.php/home-page/home-page-variation-4">Lavender Color Variation</a>[/heading]
+[/column][/row]
+
+[row][column size="1/2"]
+	<a href="https://bdthemes.net/demo/joomla/framed/demo/joomla/framed/index.php/home-page/home-page-variation-5">
+		<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/preset/sun-flower.png" alt="" />
+	</a>
+	[heading style="default" heading="h3" color="#666" size="16" align="center" margin="20"]<a href="https://bdthemes.net/demo/joomla/framed/demo/joomla/framed/index.php/home-page/home-page-variation-5">Sunflower Color Variation</a>[/heading]
+[/column]
+[column size="1/2"]
+	<a href="https://bdthemes.net/demo/joomla/framed/demo/joomla/framed/index.php/home-page/home-page-variation-6">
+		<img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/preset/Wet-Asphalt.png" alt="" />
+	</a>
+	[heading style="default" heading="h3" color="#666" size="16" align="center" margin="20"]<a href="https://bdthemes.net/demo/joomla/framed/demo/joomla/framed/index.php/home-page/home-page-variation-6">Mint Color Variation</a>[/heading]
+[/column][/row]
+
+
+
+]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Uncategorised</category>
+			<pubDate>Tue, 29 Apr 2014 15:45:17 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

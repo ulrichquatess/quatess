@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/shortcode-ultimate.css" type="text/css"?>
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/font-awesome.min.css" type="text/css"?>
+<?xml-stylesheet href="https://bdthemes.net/demo/joomla/framed/templates/framed/css/shortcodes.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Features</title>
+	<subtitle type="text">Framed Joomla Template is a high quality, simple, flat and clean template which build by Warp 7 Framework, also used lots of CSS3 effect with all modern browser supported.  You can use this template to different website, because it’s have live customizer with lots of admin customization features, so your website must be unique design. You can use this template for any kind of portfolio site, company, software firm, blog, personal website and more as you like…</subtitle>
+	<link rel="alternate" type="text/html" href="https://bdthemes.net"/>
+	<id>https://bdthemes.net/demo/joomla/framed/index.php/features/30-photo-gallery</id>
+	<updated>2018-04-02T22:00:10+00:00</updated>
+	<author>
+		<name>Framed Joomla Template</name>
+		<email>demo@bdthemes.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://bdthemes.net/demo/joomla/framed/index.php/features/30-photo-gallery?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Dummy image for gallery 16</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/features/30-photo-gallery/191-dummy-image-for-gallery-16"/>
+		<published>2014-08-12T16:46:07+00:00</published>
+		<updated>2014-08-12T16:46:07+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/features/30-photo-gallery/191-dummy-image-for-gallery-16</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/gallery/16.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/gallery/16.jpg&quot; /&gt;&lt;/p&gt;</content>
+		<category term="Photo Gallery" />
+	</entry>
+	<entry>
+		<title>Dummy image for gallery 15</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/features/30-photo-gallery/190-dummy-image-for-gallery-14"/>
+		<published>2014-08-12T16:40:32+00:00</published>
+		<updated>2014-08-12T16:40:32+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/features/30-photo-gallery/190-dummy-image-for-gallery-14</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/gallery/15.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/gallery/15.jpg&quot; /&gt;&lt;/p&gt;</content>
+		<category term="Photo Gallery" />
+	</entry>
+	<entry>
+		<title>Christian Eberle</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/features/30-photo-gallery/140-christian-eberle"/>
+		<published>2014-05-31T16:59:32+00:00</published>
+		<updated>2014-05-31T16:59:32+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/features/30-photo-gallery/140-christian-eberle</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/gallery/14.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/gallery/14.jpg&quot; /&gt;&lt;/p&gt;</content>
+		<category term="Photo Gallery" />
+	</entry>
+	<entry>
+		<title>Beautiful cosplay of Pocahontas</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/features/30-photo-gallery/115-beautiful-cosplay-of-pocahontas"/>
+		<published>2014-04-17T18:16:59+00:00</published>
+		<updated>2014-04-17T18:16:59+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/features/30-photo-gallery/115-beautiful-cosplay-of-pocahontas</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/gallery/17.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/gallery/17.jpg&quot; /&gt;&lt;/p&gt;</content>
+		<category term="Photo Gallery" />
+	</entry>
+	<entry>
+		<title>Football Powerful Kick Photographs</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/features/30-photo-gallery/114-football-powerful-kick-photographs"/>
+		<published>2014-04-17T18:13:43+00:00</published>
+		<updated>2014-04-17T18:13:43+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/features/30-photo-gallery/114-football-powerful-kick-photographs</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/gallery/26.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/gallery/26.jpg&quot; /&gt;&lt;/p&gt;</content>
+		<category term="Photo Gallery" />
+	</entry>
+	<entry>
+		<title>Wonderful Girl Photography</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/features/30-photo-gallery/113-wonderful-girl-photography"/>
+		<published>2014-04-17T18:07:30+00:00</published>
+		<updated>2014-04-17T18:07:30+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/features/30-photo-gallery/113-wonderful-girl-photography</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/gallery/19.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/gallery/19.jpg&quot; /&gt;&lt;/p&gt;</content>
+		<category term="Photo Gallery" />
+	</entry>
+	<entry>
+		<title>BdThemes Creative kids Photography</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/features/30-photo-gallery/112-bdthemes-creative-kids-photography"/>
+		<published>2014-04-17T18:02:32+00:00</published>
+		<updated>2014-04-17T18:02:32+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/features/30-photo-gallery/112-bdthemes-creative-kids-photography</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/gallery/10.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/gallery/10.jpg&quot; /&gt;&lt;/p&gt;</content>
+		<category term="Photo Gallery" />
+	</entry>
+	<entry>
+		<title>Josep Sumalla - Nathalie Callenaere</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/features/30-photo-gallery/111-josep-sumalla-nathalie-callenaere"/>
+		<published>2014-04-17T17:58:20+00:00</published>
+		<updated>2014-04-17T17:58:20+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/features/30-photo-gallery/111-josep-sumalla-nathalie-callenaere</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/gallery/3.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/gallery/3.jpg&quot; /&gt;&lt;/p&gt;</content>
+		<category term="Photo Gallery" />
+	</entry>
+	<entry>
+		<title>Disney Cosplay Club on deviantART</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/features/30-photo-gallery/110-disney-cosplay-club-on-deviantart"/>
+		<published>2014-04-17T17:50:47+00:00</published>
+		<updated>2014-04-17T17:50:47+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/features/30-photo-gallery/110-disney-cosplay-club-on-deviantart</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/gallery/18.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/gallery/18.jpg&quot; /&gt;&lt;/p&gt;</content>
+		<category term="Photo Gallery" />
+	</entry>
+	<entry>
+		<title>Nigel Cooke on Pinterest</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/features/30-photo-gallery/109-nigel-cooke-on-pinterest"/>
+		<published>2014-04-17T17:45:32+00:00</published>
+		<updated>2014-04-17T17:45:32+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/features/30-photo-gallery/109-nigel-cooke-on-pinterest</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/gallery/4.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/gallery/4.jpg&quot; /&gt;&lt;/p&gt;</content>
+		<category term="Photo Gallery" />
+	</entry>
+</feed>

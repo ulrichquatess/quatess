@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/shortcode-ultimate.css" type="text/css"?>
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/font-awesome.min.css" type="text/css"?>
+<?xml-stylesheet href="https://bdthemes.net/demo/joomla/framed/templates/framed/css/shortcodes.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Features</title>
+	<subtitle type="text">Framed Joomla Template is a high quality, simple, flat and clean template which build by Warp 7 Framework, also used lots of CSS3 effect with all modern browser supported.  You can use this template to different website, because it’s have live customizer with lots of admin customization features, so your website must be unique design. You can use this template for any kind of portfolio site, company, software firm, blog, personal website and more as you like…</subtitle>
+	<link rel="alternate" type="text/html" href="https://bdthemes.net"/>
+	<id>https://bdthemes.net/demo/joomla/framed/index.php/features/22-slideshow</id>
+	<updated>2018-04-02T21:59:13+00:00</updated>
+	<author>
+		<name>Framed Joomla Template</name>
+		<email>demo@bdthemes.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://bdthemes.net/demo/joomla/framed/index.php/features/22-slideshow?format=feed&amp;type=atom"/>
+	<entry>
+		<title>SlideShow Slide1</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/features/22-slideshow/13-slideshow-slide1"/>
+		<published>2014-03-02T19:36:48+00:00</published>
+		<updated>2014-03-02T19:36:48+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/features/22-slideshow/13-slideshow-slide1</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/slider/slideshow/slide01.jpg&quot; /&gt;&lt;/p&gt;Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+
+Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
+
+Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+
+At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate </summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/slider/slideshow/slide01.jpg&quot; /&gt;&lt;/p&gt;Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+
+Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
+
+Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+
+At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate </content>
+		<category term="SlideShow" />
+	</entry>
+	<entry>
+		<title>SlideShow Slide3</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/features/22-slideshow/14-slideshow-slide3"/>
+		<published>2014-03-02T19:36:48+00:00</published>
+		<updated>2014-03-02T19:36:48+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/features/22-slideshow/14-slideshow-slide3</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/slider/slideshow/slide03.jpg&quot; /&gt;&lt;/p&gt;One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.
+
+He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.
+
+The bedding was hardly able to cover it and seemed ready to slide off any moment.
+
+His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. &quot;What's happened to me? &quot; he thought.
+
+It wasn't a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls.</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/slider/slideshow/slide03.jpg&quot; /&gt;&lt;/p&gt;One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.
+
+He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.
+
+The bedding was hardly able to cover it and seemed ready to slide off any moment.
+
+His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. &quot;What's happened to me? &quot; he thought.
+
+It wasn't a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls.</content>
+		<category term="SlideShow" />
+	</entry>
+	<entry>
+		<title>SlideShow Slide4</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/features/22-slideshow/15-slideshow-slide4"/>
+		<published>2014-03-02T19:36:48+00:00</published>
+		<updated>2014-03-02T19:36:48+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/features/22-slideshow/15-slideshow-slide4</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/slider/slideshow/slide04.jpg&quot; /&gt;&lt;/p&gt;One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.
+
+He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.
+
+The bedding was hardly able to cover it and seemed ready to slide off any moment.
+
+His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. &quot;What's happened to me? &quot; he thought.
+
+It wasn't a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls.</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/slider/slideshow/slide04.jpg&quot; /&gt;&lt;/p&gt;One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.
+
+He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.
+
+The bedding was hardly able to cover it and seemed ready to slide off any moment.
+
+His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. &quot;What's happened to me? &quot; he thought.
+
+It wasn't a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls.</content>
+		<category term="SlideShow" />
+	</entry>
+	<entry>
+		<title>SlideShow Slide2</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/features/22-slideshow/16-slideshow-slide2"/>
+		<published>2014-03-02T19:36:48+00:00</published>
+		<updated>2014-03-02T19:36:48+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/features/22-slideshow/16-slideshow-slide2</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/slider/slideshow/slide02.jpg&quot; /&gt;&lt;/p&gt;Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
+
+Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+
+At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.
+
+Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta no</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/slider/slideshow/slide02.jpg&quot; /&gt;&lt;/p&gt;Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
+
+Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+
+At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.
+
+Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta no</content>
+		<category term="SlideShow" />
+	</entry>
+</feed>

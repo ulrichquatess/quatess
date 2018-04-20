@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/shortcode-ultimate.css" type="text/css"?>
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/font-awesome.min.css" type="text/css"?>
+<?xml-stylesheet href="https://bdthemes.net/demo/joomla/framed/templates/framed/css/shortcodes.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Features</title>
+	<subtitle type="text">Framed Joomla Template is a high quality, simple, flat and clean template which build by Warp 7 Framework, also used lots of CSS3 effect with all modern browser supported.  You can use this template to different website, because it’s have live customizer with lots of admin customization features, so your website must be unique design. You can use this template for any kind of portfolio site, company, software firm, blog, personal website and more as you like…</subtitle>
+	<link rel="alternate" type="text/html" href="https://bdthemes.net"/>
+	<id>https://bdthemes.net/demo/joomla/framed/index.php/features/2-uncategorised</id>
+	<updated>2018-04-02T21:58:19+00:00</updated>
+	<author>
+		<name>Framed Joomla Template</name>
+		<email>demo@bdthemes.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://bdthemes.net/demo/joomla/framed/index.php/features/2-uncategorised?format=feed&amp;type=atom"/>
+	<entry>
+		<title>K2 PROJECTS</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/features/k2-projects-template"/>
+		<published>2016-03-23T19:18:09+00:00</published>
+		<updated>2016-03-23T19:18:09+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/features/k2-projects-template</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">[portfolio source=&quot;k2-category: 13,14,15,16,17,18,19&quot; layout=&quot;masonry&quot; style=&quot;3&quot; limit=&quot;15&quot; filter_align=&quot;center&quot; show_more=&quot;yes&quot; filter_animation=&quot;slideDelay&quot; horizontal_gap=&quot;0&quot; vertical_gap=&quot;0&quot; filter_style=&quot;8&quot; medium=&quot;2&quot;]</summary>
+		<content type="html">[portfolio source=&quot;k2-category: 13,14,15,16,17,18,19&quot; layout=&quot;masonry&quot; style=&quot;3&quot; limit=&quot;15&quot; filter_align=&quot;center&quot; show_more=&quot;yes&quot; filter_animation=&quot;slideDelay&quot; horizontal_gap=&quot;0&quot; vertical_gap=&quot;0&quot; filter_style=&quot;8&quot; medium=&quot;2&quot;]</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>Photo Gallery 6</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/features/photo-gallery-6-column"/>
+		<published>2015-10-26T16:41:05+00:00</published>
+		<updated>2015-10-26T16:41:05+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/features/photo-gallery-6-column</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">[section background_color=&quot;transparent&quot; background_size=&quot;auto&quot; color=&quot;#444444&quot; text_align=&quot;center&quot; padding=&quot;30px 0&quot; force_fullwidth=&quot;yes&quot;]
+	[photo_gallery source=&quot;k2-category: 1&quot; limit=&quot;12&quot; large=&quot;6&quot; style=&quot;2&quot;]
+[/section]</summary>
+		<content type="html">[section background_color=&quot;transparent&quot; background_size=&quot;auto&quot; color=&quot;#444444&quot; text_align=&quot;center&quot; padding=&quot;30px 0&quot; force_fullwidth=&quot;yes&quot;]
+	[photo_gallery source=&quot;k2-category: 1&quot; limit=&quot;12&quot; large=&quot;6&quot; style=&quot;2&quot;]
+[/section]</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>Photo Gallery 5</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/features/photo-gallery-5-column"/>
+		<published>2015-10-26T16:40:40+00:00</published>
+		<updated>2015-10-26T16:40:40+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/features/photo-gallery-5-column</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">[photo_gallery source=&quot;k2-category: 1&quot; limit=&quot;10&quot; large=&quot;5&quot; style=&quot;4&quot;]</summary>
+		<content type="html">[photo_gallery source=&quot;k2-category: 1&quot; limit=&quot;10&quot; large=&quot;5&quot; style=&quot;4&quot;]</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>Photo Gallery 4</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/features/photo-gallery-4-column"/>
+		<published>2015-10-26T16:40:18+00:00</published>
+		<updated>2015-10-26T16:40:18+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/features/photo-gallery-4-column</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">	[photo_gallery source=&quot;k2-category: 1&quot; limit=&quot;12&quot; large=&quot;4&quot; style=&quot;3&quot;]</summary>
+		<content type="html">	[photo_gallery source=&quot;k2-category: 1&quot; limit=&quot;12&quot; large=&quot;4&quot; style=&quot;3&quot;]</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>Photo Gallery 3</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/features/photo-gallery-3-column"/>
+		<published>2015-10-26T16:39:44+00:00</published>
+		<updated>2015-10-26T16:39:44+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/features/photo-gallery-3-column</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">	[photo_gallery source=&quot;k2-category: 1&quot; limit=&quot;9&quot; large=&quot;3&quot;  width=&quot;370&quot; height=&quot;237&quot; style=&quot;2&quot;]</summary>
+		<content type="html">	[photo_gallery source=&quot;k2-category: 1&quot; limit=&quot;9&quot; large=&quot;3&quot;  width=&quot;370&quot; height=&quot;237&quot; style=&quot;2&quot;]</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>Photo Gallery 2</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/features/photo-gallery-2-column"/>
+		<published>2015-10-26T16:39:10+00:00</published>
+		<updated>2015-10-26T16:39:10+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/features/photo-gallery-2-column</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">	[photo_gallery source=&quot;k2-category: 1&quot; limit=&quot;8&quot; large=&quot;2&quot;  width=&quot;560&quot; height=&quot;358&quot;]</summary>
+		<content type="html">	[photo_gallery source=&quot;k2-category: 1&quot; limit=&quot;8&quot; large=&quot;2&quot;  width=&quot;560&quot; height=&quot;358&quot;]</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>Sliders</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/sliders"/>
+		<published>2014-07-20T18:03:15+00:00</published>
+		<updated>2014-07-20T18:03:15+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/sliders</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">[row]
+
+[column size=&quot;1/3&quot;][panel url=&quot;?option=com_content&amp;amp;view=featured&amp;amp;Itemid=210&quot;][icon_list_item title=&quot;Simple Slider&quot; icon=&quot;icon: image&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]This template fits with width and height of screen which provides you larg place to put your slider, you can also have HD video playing on your background of slider.[/icon_list_item][/panel][/column]
+
+[column size=&quot;1/3&quot;][panel url=&quot;?option=com_content&amp;amp;view=featured&amp;amp;Itemid=215&quot;][icon_list_item title=&quot;Partial View1&quot; icon=&quot;icon: camera-retro&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]This template shows one complete slide plus two partial of nearby slides at a same time which it increases the interest of seeing other slides by the visitors.[/icon_list_item][/panel][/column]
+
+[column size=&quot;1/3&quot;][panel url=&quot;?option=com_content&amp;amp;view=featured&amp;amp;Itemid=216&quot;][icon_list_item title=&quot;Partial View2&quot; icon=&quot;icon: file-photo-o&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]This template shows one complete slide plus two partial of nearby slides at a same time which it increases the interest of seeing other slides by the visitors.[/icon_list_item][/panel][/column]
+[/row]
+[spacer]
+
+[row]
+
+[column size=&quot;1/3&quot;][panel url=&quot;?option=com_content&amp;amp;view=featured&amp;amp;Itemid=217&quot;][icon_list_item title=&quot;Partial View3&quot; icon=&quot;icon: photo&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]This template shows one complete slide plus three partial of nearby slides at a same time which it increases the interest of seeing other slides by the visitors.[/icon_list_item][/panel][/column]
+
+[column size=&quot;1/3&quot;][panel url=&quot;?option=com_content&amp;amp;view=featured&amp;amp;Itemid=212&quot;][icon_list_item title=&quot;Flow 3D Carousel&quot; icon=&quot;icon: stack-overflow&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]This template shows one complete slide plus Flow 3D Carousel of nearby slides at a same time which it increases the interest of seeing other slides by the visitors.[/icon_list_item][/panel][/column]
+
+[column size=&quot;1/3&quot;][panel url=&quot;?option=com_content&amp;amp;view=featured&amp;amp;Itemid=213&quot;][icon_list_item title=&quot;Wave 3D Carousel&quot; icon=&quot;icon: file-photo-o&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]This template shows one complete slide plus Wave #d Carousel of nearby slides at a same time which it increases the interest of seeing other slides by the visitors.[/icon_list_item][/panel][/column]
+[/row]
+[spacer]
+
+[row]
+
+[column size=&quot;1/3&quot;][panel url=&quot;?option=com_content&amp;amp;view=featured&amp;amp;Itemid=211&quot;][icon_list_item title=&quot;Laptop Display Slider&quot; icon=&quot;icon: laptop&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]With this template put your images on a laptop and make it alive with nice effect, you will be able to add images and even videos easily, it also supports tooltips[/icon_list_item][/panel][/column]
+
+[column size=&quot;1/3&quot;][panel url=&quot;https://bdthemes.net/demo/joomla/framed/index.php?option=com_content&amp;amp;view=featured&amp;amp;Itemid=214&quot;][icon_list_item title=&quot;Desktop Display Slider&quot; icon=&quot;icon: desktop&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]With this template put your images on a display and make it alive with nice 3d effect, you will be able to add images and even videos easily, it also supports tooltips.[/icon_list_item][/panel][/column]
+
+[column size=&quot;1/3&quot;][panel url=&quot;?option=com_content&amp;amp;view=featured&amp;amp;Itemid=218&quot;][icon_list_item title=&quot;Horizontal Tab Slider&quot; icon=&quot;icon: image&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]This template considers one tab for each slide which it shows the tabs as thumbnails, you can put html content in tabs. You can change the size of each tab easily by using css.[/icon_list_item][/panel][/column]
+[/row]
+[spacer]
+
+[row]
+
+[column size=&quot;1/3&quot;][panel url=&quot;?option=com_content&amp;amp;view=featured&amp;amp;Itemid=219&quot;][icon_list_item title=&quot;Vertical Tab Slider&quot; icon=&quot;icon: photo&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]This template considers one tab for each slide which it shows the tabs as thumbnails, you can put html content in tabs. You can change the size of each tab easily by using css.[/icon_list_item][/panel][/column]
+
+[column size=&quot;1/3&quot;][panel url=&quot;?option=com_content&amp;amp;view=featured&amp;amp;Itemid=135&quot;][icon_list_item title=&quot;Full Width Slider&quot; icon=&quot;icon: desktop&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]This template shows one complete full width slider slide plus of nearby slides at a same time which it increases the interest of seeing other slides by the visitors.[/icon_list_item][/panel][/column]
+
+[column size=&quot;1/3&quot;][panel url=&quot;#&quot;][icon_list_item title=&quot;Box Slider&quot; icon=&quot;icon: laptop&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]This template shows one complete slide plus two partial of nearby slides at a same time which it increases the interest of seeing other slides by the visitors.[/icon_list_item][/panel][/column]
+[/row]
+[spacer]
+
+[row]
+
+[column size=&quot;1/3&quot;][panel url=&quot;#&quot;][icon_list_item title=&quot;Simple Slider&quot; icon=&quot;icon: image&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]This template fits with width and height of screen which provides you larg place to put your slider, you can also have HD video playing on your background of slider.[/icon_list_item][/panel][/column]
+
+[column size=&quot;1/3&quot;][panel url=&quot;?option=com_content&amp;amp;view=article&amp;amp;id=128&amp;amp;Itemid=312&quot;][icon_list_item title=&quot;Image With Text Slider&quot; icon=&quot;icon: image&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]This template shows one complete slide plus image with text slider of nearby slides at a same time which it increases the interest of seeing other slides by the visitors.[/icon_list_item][/panel][/column]
+
+[column size=&quot;1/3&quot;][panel url=&quot;?option=com_content&amp;amp;view=article&amp;amp;id=129&amp;amp;Itemid=314&quot;][icon_list_item title=&quot;Content Image Slider&quot; icon=&quot;icon: photo&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]This template shows one complete slide plus content image slider of nearby slides at a same time which it increases the interest of seeing other slides by the visitors.[/icon_list_item][/panel][/column]
+[/row]
+[spacer]
+
+</summary>
+		<content type="html">[row]
+
+[column size=&quot;1/3&quot;][panel url=&quot;?option=com_content&amp;amp;view=featured&amp;amp;Itemid=210&quot;][icon_list_item title=&quot;Simple Slider&quot; icon=&quot;icon: image&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]This template fits with width and height of screen which provides you larg place to put your slider, you can also have HD video playing on your background of slider.[/icon_list_item][/panel][/column]
+
+[column size=&quot;1/3&quot;][panel url=&quot;?option=com_content&amp;amp;view=featured&amp;amp;Itemid=215&quot;][icon_list_item title=&quot;Partial View1&quot; icon=&quot;icon: camera-retro&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]This template shows one complete slide plus two partial of nearby slides at a same time which it increases the interest of seeing other slides by the visitors.[/icon_list_item][/panel][/column]
+
+[column size=&quot;1/3&quot;][panel url=&quot;?option=com_content&amp;amp;view=featured&amp;amp;Itemid=216&quot;][icon_list_item title=&quot;Partial View2&quot; icon=&quot;icon: file-photo-o&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]This template shows one complete slide plus two partial of nearby slides at a same time which it increases the interest of seeing other slides by the visitors.[/icon_list_item][/panel][/column]
+[/row]
+[spacer]
+
+[row]
+
+[column size=&quot;1/3&quot;][panel url=&quot;?option=com_content&amp;amp;view=featured&amp;amp;Itemid=217&quot;][icon_list_item title=&quot;Partial View3&quot; icon=&quot;icon: photo&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]This template shows one complete slide plus three partial of nearby slides at a same time which it increases the interest of seeing other slides by the visitors.[/icon_list_item][/panel][/column]
+
+[column size=&quot;1/3&quot;][panel url=&quot;?option=com_content&amp;amp;view=featured&amp;amp;Itemid=212&quot;][icon_list_item title=&quot;Flow 3D Carousel&quot; icon=&quot;icon: stack-overflow&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]This template shows one complete slide plus Flow 3D Carousel of nearby slides at a same time which it increases the interest of seeing other slides by the visitors.[/icon_list_item][/panel][/column]
+
+[column size=&quot;1/3&quot;][panel url=&quot;?option=com_content&amp;amp;view=featured&amp;amp;Itemid=213&quot;][icon_list_item title=&quot;Wave 3D Carousel&quot; icon=&quot;icon: file-photo-o&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]This template shows one complete slide plus Wave #d Carousel of nearby slides at a same time which it increases the interest of seeing other slides by the visitors.[/icon_list_item][/panel][/column]
+[/row]
+[spacer]
+
+[row]
+
+[column size=&quot;1/3&quot;][panel url=&quot;?option=com_content&amp;amp;view=featured&amp;amp;Itemid=211&quot;][icon_list_item title=&quot;Laptop Display Slider&quot; icon=&quot;icon: laptop&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]With this template put your images on a laptop and make it alive with nice effect, you will be able to add images and even videos easily, it also supports tooltips[/icon_list_item][/panel][/column]
+
+[column size=&quot;1/3&quot;][panel url=&quot;https://bdthemes.net/demo/joomla/framed/index.php?option=com_content&amp;amp;view=featured&amp;amp;Itemid=214&quot;][icon_list_item title=&quot;Desktop Display Slider&quot; icon=&quot;icon: desktop&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]With this template put your images on a display and make it alive with nice 3d effect, you will be able to add images and even videos easily, it also supports tooltips.[/icon_list_item][/panel][/column]
+
+[column size=&quot;1/3&quot;][panel url=&quot;?option=com_content&amp;amp;view=featured&amp;amp;Itemid=218&quot;][icon_list_item title=&quot;Horizontal Tab Slider&quot; icon=&quot;icon: image&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]This template considers one tab for each slide which it shows the tabs as thumbnails, you can put html content in tabs. You can change the size of each tab easily by using css.[/icon_list_item][/panel][/column]
+[/row]
+[spacer]
+
+[row]
+
+[column size=&quot;1/3&quot;][panel url=&quot;?option=com_content&amp;amp;view=featured&amp;amp;Itemid=219&quot;][icon_list_item title=&quot;Vertical Tab Slider&quot; icon=&quot;icon: photo&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]This template considers one tab for each slide which it shows the tabs as thumbnails, you can put html content in tabs. You can change the size of each tab easily by using css.[/icon_list_item][/panel][/column]
+
+[column size=&quot;1/3&quot;][panel url=&quot;?option=com_content&amp;amp;view=featured&amp;amp;Itemid=135&quot;][icon_list_item title=&quot;Full Width Slider&quot; icon=&quot;icon: desktop&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]This template shows one complete full width slider slide plus of nearby slides at a same time which it increases the interest of seeing other slides by the visitors.[/icon_list_item][/panel][/column]
+
+[column size=&quot;1/3&quot;][panel url=&quot;#&quot;][icon_list_item title=&quot;Box Slider&quot; icon=&quot;icon: laptop&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]This template shows one complete slide plus two partial of nearby slides at a same time which it increases the interest of seeing other slides by the visitors.[/icon_list_item][/panel][/column]
+[/row]
+[spacer]
+
+[row]
+
+[column size=&quot;1/3&quot;][panel url=&quot;#&quot;][icon_list_item title=&quot;Simple Slider&quot; icon=&quot;icon: image&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]This template fits with width and height of screen which provides you larg place to put your slider, you can also have HD video playing on your background of slider.[/icon_list_item][/panel][/column]
+
+[column size=&quot;1/3&quot;][panel url=&quot;?option=com_content&amp;amp;view=article&amp;amp;id=128&amp;amp;Itemid=312&quot;][icon_list_item title=&quot;Image With Text Slider&quot; icon=&quot;icon: image&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]This template shows one complete slide plus image with text slider of nearby slides at a same time which it increases the interest of seeing other slides by the visitors.[/icon_list_item][/panel][/column]
+
+[column size=&quot;1/3&quot;][panel url=&quot;?option=com_content&amp;amp;view=article&amp;amp;id=129&amp;amp;Itemid=314&quot;][icon_list_item title=&quot;Content Image Slider&quot; icon=&quot;icon: photo&quot; icon_border=&quot;1px solid #cccccc&quot; icon_align=&quot;top&quot;]This template shows one complete slide plus content image slider of nearby slides at a same time which it increases the interest of seeing other slides by the visitors.[/icon_list_item][/panel][/column]
+[/row]
+[spacer]
+
+</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>KEEP IN TOUCH</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-16-04/category-list/130-keep-in-touch"/>
+		<published>2014-05-07T11:48:44+00:00</published>
+		<updated>2014-05-07T11:48:44+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/2014-03-06-12-16-04/category-list/130-keep-in-touch</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">[icon icon=&quot;icon: twitter&quot; background=&quot;transparent&quot; color=&quot;#333333&quot; size=&quot;24&quot; radius=&quot;256&quot; shape_size=&quot;10&quot; border=&quot;0px solid #444444&quot;]
+[icon icon=&quot;icon: twitter&quot; background=&quot;transparent&quot; color=&quot;#333333&quot; size=&quot;24&quot; radius=&quot;256&quot; shape_size=&quot;10&quot; border=&quot;0px solid #444444&quot;]
+[icon icon=&quot;icon: twitter&quot; background=&quot;transparent&quot; color=&quot;#333333&quot; size=&quot;24&quot; radius=&quot;256&quot; shape_size=&quot;10&quot; border=&quot;0px solid #444444&quot;]
+[icon icon=&quot;icon: twitter&quot; background=&quot;transparent&quot; color=&quot;#333333&quot; size=&quot;24&quot; radius=&quot;256&quot; shape_size=&quot;10&quot; border=&quot;0px solid #444444&quot;]
+[icon icon=&quot;icon: twitter&quot; background=&quot;transparent&quot; color=&quot;#333333&quot; size=&quot;24&quot; radius=&quot;256&quot; shape_size=&quot;10&quot; border=&quot;0px solid #444444&quot;]
+[icon icon=&quot;icon: twitter&quot; background=&quot;transparent&quot; color=&quot;#333333&quot; size=&quot;24&quot; radius=&quot;256&quot; shape_size=&quot;10&quot; border=&quot;0px solid #444444&quot;]
+[icon icon=&quot;icon: twitter&quot; background=&quot;transparent&quot; color=&quot;#333333&quot; size=&quot;24&quot; radius=&quot;256&quot; shape_size=&quot;10&quot; border=&quot;0px solid #444444&quot;]
+[icon icon=&quot;icon: twitter&quot; background=&quot;transparent&quot; color=&quot;#333333&quot; size=&quot;24&quot; radius=&quot;256&quot; shape_size=&quot;10&quot; border=&quot;0px solid #444444&quot;]
+[icon icon=&quot;icon: twitter&quot; background=&quot;transparent&quot; color=&quot;#333333&quot; size=&quot;24&quot; radius=&quot;256&quot; shape_size=&quot;10&quot; border=&quot;0px solid #444444&quot;]</summary>
+		<content type="html">[icon icon=&quot;icon: twitter&quot; background=&quot;transparent&quot; color=&quot;#333333&quot; size=&quot;24&quot; radius=&quot;256&quot; shape_size=&quot;10&quot; border=&quot;0px solid #444444&quot;]
+[icon icon=&quot;icon: twitter&quot; background=&quot;transparent&quot; color=&quot;#333333&quot; size=&quot;24&quot; radius=&quot;256&quot; shape_size=&quot;10&quot; border=&quot;0px solid #444444&quot;]
+[icon icon=&quot;icon: twitter&quot; background=&quot;transparent&quot; color=&quot;#333333&quot; size=&quot;24&quot; radius=&quot;256&quot; shape_size=&quot;10&quot; border=&quot;0px solid #444444&quot;]
+[icon icon=&quot;icon: twitter&quot; background=&quot;transparent&quot; color=&quot;#333333&quot; size=&quot;24&quot; radius=&quot;256&quot; shape_size=&quot;10&quot; border=&quot;0px solid #444444&quot;]
+[icon icon=&quot;icon: twitter&quot; background=&quot;transparent&quot; color=&quot;#333333&quot; size=&quot;24&quot; radius=&quot;256&quot; shape_size=&quot;10&quot; border=&quot;0px solid #444444&quot;]
+[icon icon=&quot;icon: twitter&quot; background=&quot;transparent&quot; color=&quot;#333333&quot; size=&quot;24&quot; radius=&quot;256&quot; shape_size=&quot;10&quot; border=&quot;0px solid #444444&quot;]
+[icon icon=&quot;icon: twitter&quot; background=&quot;transparent&quot; color=&quot;#333333&quot; size=&quot;24&quot; radius=&quot;256&quot; shape_size=&quot;10&quot; border=&quot;0px solid #444444&quot;]
+[icon icon=&quot;icon: twitter&quot; background=&quot;transparent&quot; color=&quot;#333333&quot; size=&quot;24&quot; radius=&quot;256&quot; shape_size=&quot;10&quot; border=&quot;0px solid #444444&quot;]
+[icon icon=&quot;icon: twitter&quot; background=&quot;transparent&quot; color=&quot;#333333&quot; size=&quot;24&quot; radius=&quot;256&quot; shape_size=&quot;10&quot; border=&quot;0px solid #444444&quot;]</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>Content Image Slider</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/sliders/2014-04-29-09-41-26/content-image-slider"/>
+		<published>2014-04-29T17:08:46+00:00</published>
+		<updated>2014-04-29T17:08:46+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/sliders/2014-04-29-09-41-26/content-image-slider</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">[content_slider style=&quot;light&quot; effect=&quot;slide&quot; arrows=&quot;hover&quot; pages=&quot;no&quot; autoplay=&quot;yes&quot; speed=&quot;0.5&quot;]
+	[content_slide]
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/slider/slideshow/slide01.jpg&quot; alt=&quot;&quot;&gt;
+	[/content_slide]
+	[content_slide]
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/slider/slideshow/slide03.jpg&quot; alt=&quot;&quot;&gt;
+	[/content_slide]
+	[content_slide]
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/slider/slideshow/slide04.jpg&quot; alt=&quot;&quot;&gt;
+	[/content_slide]
+[/content_slider]
+</summary>
+		<content type="html">[content_slider style=&quot;light&quot; effect=&quot;slide&quot; arrows=&quot;hover&quot; pages=&quot;no&quot; autoplay=&quot;yes&quot; speed=&quot;0.5&quot;]
+	[content_slide]
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/slider/slideshow/slide01.jpg&quot; alt=&quot;&quot;&gt;
+	[/content_slide]
+	[content_slide]
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/slider/slideshow/slide03.jpg&quot; alt=&quot;&quot;&gt;
+	[/content_slide]
+	[content_slide]
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/slider/slideshow/slide04.jpg&quot; alt=&quot;&quot;&gt;
+	[/content_slide]
+[/content_slider]
+</content>
+		<category term="Uncategorised" />
+	</entry>
+	<entry>
+		<title>Color Variation</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/home-page/color-variation"/>
+		<published>2014-04-29T15:45:17+00:00</published>
+		<updated>2014-04-29T15:45:17+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/home-page/color-variation</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">[row][column size=&quot;1/2&quot;]
+	&lt;a href=&quot;https://bdthemes.net/demo/joomla/framed/index.php?option=com_content&amp;view=featured&amp;Itemid=101&quot;&gt;
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/preset/default.png&quot; alt=&quot;&quot; /&gt;
+	&lt;/a&gt;
+	[heading style=&quot;default&quot; heading=&quot;h3&quot; color=&quot;#666&quot; size=&quot;16&quot; align=&quot;center&quot; margin=&quot;20&quot;]&lt;a href=&quot;https://bdthemes.net/demo/joomla/framed/index.php?option=com_content&amp;view=featured&amp;Itemid=101&quot;&gt;Default Color Variation&lt;/a&gt;[/heading]
+[/column]
+[column size=&quot;1/2&quot;]
+	&lt;a href=&quot;https://bdthemes.net/demo/joomla/framed/index.php?option=com_content&amp;view=featured&amp;Itemid=135&quot;&gt;
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/preset/Alizarin.png&quot; alt=&quot;&quot; /&gt;
+	&lt;/a&gt;
+	[heading style=&quot;default&quot; heading=&quot;h3&quot; color=&quot;#666&quot; size=&quot;16&quot; align=&quot;center&quot; margin=&quot;20&quot;]&lt;a href=&quot;https://bdthemes.net/demo/joomla/framed/index.php?option=com_content&amp;view=featured&amp;Itemid=135&quot;&gt;Bitter Sweet Color Variation&lt;/a&gt;[/heading]
+[/column][/row]
+
+[row][column size=&quot;1/2&quot;]
+	&lt;a href=&quot;https://bdthemes.net/demo/joomla/framed/index.php?option=com_content&amp;view=featured&amp;Itemid=144&quot;&gt;
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/preset/Peter-River.png&quot; alt=&quot;&quot; /&gt;
+	&lt;/a&gt;
+	[heading style=&quot;default&quot; heading=&quot;h3&quot; color=&quot;#666&quot; size=&quot;16&quot; align=&quot;center&quot; margin=&quot;20&quot;]&lt;a href=&quot;https://bdthemes.net/demo/joomla/framed/index.php?option=com_content&amp;view=featured&amp;Itemid=144&quot;&gt;Grapefruit Color Variation&lt;/a&gt;[/heading]
+[/column]
+[column size=&quot;1/2&quot;]
+	&lt;a href=&quot;https://bdthemes.net/demo/joomla/framed/index.php?option=com_content&amp;view=featured&amp;Itemid=185&quot;&gt;
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/preset/transparent.png&quot; alt=&quot;&quot; /&gt;
+	&lt;/a&gt;
+	[heading style=&quot;default&quot; heading=&quot;h3&quot; color=&quot;#666&quot; size=&quot;16&quot; align=&quot;center&quot; margin=&quot;20&quot;]&lt;a href=&quot;https://bdthemes.net/demo/joomla/framed/index.php?option=com_content&amp;view=featured&amp;Itemid=185&quot;&gt;Lavender Color Variation&lt;/a&gt;[/heading]
+[/column][/row]
+
+[row][column size=&quot;1/2&quot;]
+	&lt;a href=&quot;https://bdthemes.net/demo/joomla/framed/index.php?option=com_content&amp;view=featured&amp;Itemid=223&quot;&gt;
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/preset/sun-flower.png&quot; alt=&quot;&quot; /&gt;
+	&lt;/a&gt;
+	[heading style=&quot;default&quot; heading=&quot;h3&quot; color=&quot;#666&quot; size=&quot;16&quot; align=&quot;center&quot; margin=&quot;20&quot;]&lt;a href=&quot;https://bdthemes.net/demo/joomla/framed/index.php?option=com_content&amp;view=featured&amp;Itemid=223&quot;&gt;Sunflower Color Variation&lt;/a&gt;[/heading]
+[/column]
+[column size=&quot;1/2&quot;]
+	&lt;a href=&quot;https://bdthemes.net/demo/joomla/framed/index.php?option=com_content&amp;view=featured&amp;Itemid=248&quot;&gt;
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/preset/Wet-Asphalt.png&quot; alt=&quot;&quot; /&gt;
+	&lt;/a&gt;
+	[heading style=&quot;default&quot; heading=&quot;h3&quot; color=&quot;#666&quot; size=&quot;16&quot; align=&quot;center&quot; margin=&quot;20&quot;]&lt;a href=&quot;https://bdthemes.net/demo/joomla/framed/index.php?option=com_content&amp;view=featured&amp;Itemid=248&quot;&gt;Mint Color Variation&lt;/a&gt;[/heading]
+[/column][/row]
+
+
+
+</summary>
+		<content type="html">[row][column size=&quot;1/2&quot;]
+	&lt;a href=&quot;https://bdthemes.net/demo/joomla/framed/index.php?option=com_content&amp;view=featured&amp;Itemid=101&quot;&gt;
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/preset/default.png&quot; alt=&quot;&quot; /&gt;
+	&lt;/a&gt;
+	[heading style=&quot;default&quot; heading=&quot;h3&quot; color=&quot;#666&quot; size=&quot;16&quot; align=&quot;center&quot; margin=&quot;20&quot;]&lt;a href=&quot;https://bdthemes.net/demo/joomla/framed/index.php?option=com_content&amp;view=featured&amp;Itemid=101&quot;&gt;Default Color Variation&lt;/a&gt;[/heading]
+[/column]
+[column size=&quot;1/2&quot;]
+	&lt;a href=&quot;https://bdthemes.net/demo/joomla/framed/index.php?option=com_content&amp;view=featured&amp;Itemid=135&quot;&gt;
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/preset/Alizarin.png&quot; alt=&quot;&quot; /&gt;
+	&lt;/a&gt;
+	[heading style=&quot;default&quot; heading=&quot;h3&quot; color=&quot;#666&quot; size=&quot;16&quot; align=&quot;center&quot; margin=&quot;20&quot;]&lt;a href=&quot;https://bdthemes.net/demo/joomla/framed/index.php?option=com_content&amp;view=featured&amp;Itemid=135&quot;&gt;Bitter Sweet Color Variation&lt;/a&gt;[/heading]
+[/column][/row]
+
+[row][column size=&quot;1/2&quot;]
+	&lt;a href=&quot;https://bdthemes.net/demo/joomla/framed/index.php?option=com_content&amp;view=featured&amp;Itemid=144&quot;&gt;
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/preset/Peter-River.png&quot; alt=&quot;&quot; /&gt;
+	&lt;/a&gt;
+	[heading style=&quot;default&quot; heading=&quot;h3&quot; color=&quot;#666&quot; size=&quot;16&quot; align=&quot;center&quot; margin=&quot;20&quot;]&lt;a href=&quot;https://bdthemes.net/demo/joomla/framed/index.php?option=com_content&amp;view=featured&amp;Itemid=144&quot;&gt;Grapefruit Color Variation&lt;/a&gt;[/heading]
+[/column]
+[column size=&quot;1/2&quot;]
+	&lt;a href=&quot;https://bdthemes.net/demo/joomla/framed/index.php?option=com_content&amp;view=featured&amp;Itemid=185&quot;&gt;
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/preset/transparent.png&quot; alt=&quot;&quot; /&gt;
+	&lt;/a&gt;
+	[heading style=&quot;default&quot; heading=&quot;h3&quot; color=&quot;#666&quot; size=&quot;16&quot; align=&quot;center&quot; margin=&quot;20&quot;]&lt;a href=&quot;https://bdthemes.net/demo/joomla/framed/index.php?option=com_content&amp;view=featured&amp;Itemid=185&quot;&gt;Lavender Color Variation&lt;/a&gt;[/heading]
+[/column][/row]
+
+[row][column size=&quot;1/2&quot;]
+	&lt;a href=&quot;https://bdthemes.net/demo/joomla/framed/index.php?option=com_content&amp;view=featured&amp;Itemid=223&quot;&gt;
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/preset/sun-flower.png&quot; alt=&quot;&quot; /&gt;
+	&lt;/a&gt;
+	[heading style=&quot;default&quot; heading=&quot;h3&quot; color=&quot;#666&quot; size=&quot;16&quot; align=&quot;center&quot; margin=&quot;20&quot;]&lt;a href=&quot;https://bdthemes.net/demo/joomla/framed/index.php?option=com_content&amp;view=featured&amp;Itemid=223&quot;&gt;Sunflower Color Variation&lt;/a&gt;[/heading]
+[/column]
+[column size=&quot;1/2&quot;]
+	&lt;a href=&quot;https://bdthemes.net/demo/joomla/framed/index.php?option=com_content&amp;view=featured&amp;Itemid=248&quot;&gt;
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/preset/Wet-Asphalt.png&quot; alt=&quot;&quot; /&gt;
+	&lt;/a&gt;
+	[heading style=&quot;default&quot; heading=&quot;h3&quot; color=&quot;#666&quot; size=&quot;16&quot; align=&quot;center&quot; margin=&quot;20&quot;]&lt;a href=&quot;https://bdthemes.net/demo/joomla/framed/index.php?option=com_content&amp;view=featured&amp;Itemid=248&quot;&gt;Mint Color Variation&lt;/a&gt;[/heading]
+[/column][/row]
+
+
+
+</content>
+		<category term="Uncategorised" />
+	</entry>
+</feed>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/shortcode-ultimate.css" type="text/css"?>
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/font-awesome.min.css" type="text/css"?>
+<?xml-stylesheet href="https://bdthemes.net/demo/joomla/framed/templates/framed/css/shortcodes.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Displaying items by tag: massa</title>
+		<description><![CDATA[Framed Joomla Template is a high quality, simple, flat and clean template which build by Warp 7 Framework, also used lots of CSS3 effect with all modern browser supported.  You can use this template to different website, because it’s have live customizer with lots of admin customization features, so your website must be unique design. You can use this template for any kind of portfolio site, company, software firm, blog, personal website and more as you like…]]></description>
+		<link>https://bdthemes.net</link>
+		<lastBuildDate>Mon, 02 Apr 2018 22:39:51 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://bdthemes.net/demo/joomla/framed/index.php/blog/k2-user-page/itemlist/tag/massa?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Aenean massa ridiculus</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/blog/k2-user-page/item/54-aenean-massa-ridiculus</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/blog/k2-user-page/item/54-aenean-massa-ridiculus</guid>
+			<description><![CDATA[<div class="K2FeedImage"><img src="https://bdthemes.net/demo/joomla/framed/media/k2/items/cache/a27a3b73d355048c6bab885897085f62_S.jpg" alt="Aenean massa ridiculus" /></div><div class="K2FeedIntroText"><p>Lorem ipsum dolor sit amet, adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis Aenean massa montes, ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. hendrerit quis, nisi. Curabitur ligula sapien, tincidunt non, euismod vitae, posuere </p>
+
+<ol>
+	<li>Lorem ipsum dolor sit amet consectetuer.</li>
+	<li>Aenean commodo ligula eget dolor ipsum.</li>
+	<li>Cras dapibus. Vivamus elementum semper.</li>
+</ol>
+
+
+</div><div class="K2FeedFullText">
+
+[row]
+	[column size="1/2"]
+		[list icon="icon: check" icon_color="#4cdc90"]
+			<ul>
+				  <li>Lorem ipsum dolor sit amet consectetuer.</li>
+				  <li>Aenean commodo ligula eget dolor.</li>
+				  <li>Cras dapibus. Vivamus elementum semper.</li>
+				  <li>Aenean imperdiet. Etiam ultricies nisi vel augue.</li>
+				  <li>Maecenas nec odio et ante tincidunt tempus.</li>
+				  <li>Donec sodales sagittis magna. Sed consequat, leo eget</li>
+				  <li>Integer ante arcu, accumsan a, consectetuer eget.</li>
+				  <li>Nunc nonummy metus. Vestibulum volutpat pretium.</li>
+			</ul>
+		[/list]
+	[/column]
+	
+	[column size="1/2"]
+		[list icon="icon: check" icon_color="#4cdc90"]
+			<ul>
+				<li>Maecenas nec odio et ante tincidunt tempus.</li>
+				<li>Donec sodales sagittis magna. Sed consequat, leo eget</li>
+				<li>Integer ante arcu, accumsan a, consectetuer eget.</li>
+				<li> Nunc nonummy metus. Vestibulum volutpat pretium.</li>
+			 	<li>Lorem ipsum dolor sit amet consectetuer.</li>
+				<li>Aenean commodo ligula eget dolor.</li>
+				<li>Cras dapibus. Vivamus elementum semper.</li>
+				<liAenean imperdiet. Etiam ultricies nisi vel augue.</li>
+			</ul>
+		[/list]
+	[/column]	
+[/row]
+Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis. Etiam imperdiet imperdiet orci. Nunc nec neque. Phasellus leo dolor, tempus non, auctor et</div>]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>UX Design</category>
+			<pubDate>Sun, 20 Sep 2015 06:00:19 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

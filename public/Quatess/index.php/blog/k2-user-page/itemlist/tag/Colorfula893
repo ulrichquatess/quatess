@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/shortcode-ultimate.css" type="text/css"?>
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/font-awesome.min.css" type="text/css"?>
+<?xml-stylesheet href="https://bdthemes.net/demo/joomla/framed/templates/framed/css/shortcodes.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Displaying items by tag: Colorful</title>
+	<subtitle type="text">Framed Joomla Template is a high quality, simple, flat and clean template which build by Warp 7 Framework, also used lots of CSS3 effect with all modern browser supported.  You can use this template to different website, because it’s have live customizer with lots of admin customization features, so your website must be unique design. You can use this template for any kind of portfolio site, company, software firm, blog, personal website and more as you like…</subtitle>
+	<link rel="alternate" type="text/html" href="https://bdthemes.net"/>
+	<id>https://bdthemes.net/demo/joomla/framed/index.php/blog/k2-user-page/itemlist/tag/Colorful</id>
+	<updated>2018-04-02T21:54:47+00:00</updated>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://bdthemes.net/demo/joomla/framed/index.php/blog/k2-user-page/itemlist/tag/Colorful?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Colorful  Magic B Design</title>
+		<link rel="alternate" type="text/html" href="https://bdthemes.net/demo/joomla/framed/index.php/blog/k2-user-page/item/57-colorful-magic-b-design"/>
+		<published>2015-09-20T06:05:36+00:00</published>
+		<updated>2015-09-20T06:05:36+00:00</updated>
+		<id>https://bdthemes.net/demo/joomla/framed/index.php/blog/k2-user-page/item/57-colorful-magic-b-design</id>
+		<author>
+			<name>Super User</name>
+			<email>demo@bdthemes.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/media/k2/items/cache/0548677e6432786dd8df61eb3aaec139_S.jpg&quot; alt=&quot;Colorful  Magic B Design&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. hendrerit quis, nisi. Curabitur ligula sapien, tincidunt non, euismod vitae, posuere &lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;Lorem ipsum dolor sit amet consectetuer.&lt;/li&gt;
+	&lt;li&gt;Aenean commodo ligula eget dolor ipsum.&lt;/li&gt;
+	&lt;li&gt;Cras dapibus. Vivamus elementum semper.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;/div&gt;&lt;div class=&quot;K2FeedFullText&quot;&gt;
+
+[row]
+	[column size=&quot;1/2&quot;]
+		[list icon=&quot;icon: check&quot; icon_color=&quot;#4cdc90&quot;]
+			&lt;ul&gt;
+				  &lt;li&gt;Lorem ipsum dolor sit amet consectetuer.&lt;/li&gt;
+				  &lt;li&gt;Aenean commodo ligula eget dolor.&lt;/li&gt;
+				  &lt;li&gt;Cras dapibus. Vivamus elementum semper.&lt;/li&gt;
+				  &lt;li&gt;Aenean imperdiet. Etiam ultricies nisi vel augue.&lt;/li&gt;
+				  &lt;li&gt;Maecenas nec odio et ante tincidunt tempus.&lt;/li&gt;
+				  &lt;li&gt;Donec sodales sagittis magna. Sed consequat, leo eget&lt;/li&gt;
+				  &lt;li&gt;Integer ante arcu, accumsan a, consectetuer eget.&lt;/li&gt;
+				  &lt;li&gt;Nunc nonummy metus. Vestibulum volutpat pretium.&lt;/li&gt;
+			&lt;/ul&gt;
+		[/list]
+	[/column]
+	
+	[column size=&quot;1/2&quot;]
+		[list icon=&quot;icon: check&quot; icon_color=&quot;#4cdc90&quot;]
+			&lt;ul&gt;
+				&lt;li&gt;Maecenas nec odio et ante tincidunt tempus.&lt;/li&gt;
+				&lt;li&gt;Donec sodales sagittis magna. Sed consequat, leo eget&lt;/li&gt;
+				&lt;li&gt;Integer ante arcu, accumsan a, consectetuer eget.&lt;/li&gt;
+				&lt;li&gt; Nunc nonummy metus. Vestibulum volutpat pretium.&lt;/li&gt;
+			 	&lt;li&gt;Lorem ipsum dolor sit amet consectetuer.&lt;/li&gt;
+				&lt;li&gt;Aenean commodo ligula eget dolor.&lt;/li&gt;
+				&lt;li&gt;Cras dapibus. Vivamus elementum semper.&lt;/li&gt;
+				&lt;liAenean imperdiet. Etiam ultricies nisi vel augue.&lt;/li&gt;
+			&lt;/ul&gt;
+		[/list]
+	[/column]	
+[/row]
+Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis. Etiam imperdiet imperdiet orci. Nunc nec neque. Phasellus leo dolor, tempus non, auctor et
+
+[row equal_height=&quot;yes&quot;]
+	[column size=&quot;1/3&quot;]
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/gallery/19.jpg&quot; alt=&quot;&quot;&gt;
+	[/column]
+	[column size=&quot;1/3&quot;]
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/gallery/20.jpg&quot; alt=&quot;&quot;&gt;
+	[/column]
+	[column size=&quot;1/3&quot;]
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/gallery/21.jpg&quot; alt=&quot;&quot;&gt;
+	[/column]
+[/row]&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedImage&quot;&gt;&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/media/k2/items/cache/0548677e6432786dd8df61eb3aaec139_S.jpg&quot; alt=&quot;Colorful  Magic B Design&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. hendrerit quis, nisi. Curabitur ligula sapien, tincidunt non, euismod vitae, posuere &lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;Lorem ipsum dolor sit amet consectetuer.&lt;/li&gt;
+	&lt;li&gt;Aenean commodo ligula eget dolor ipsum.&lt;/li&gt;
+	&lt;li&gt;Cras dapibus. Vivamus elementum semper.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;/div&gt;&lt;div class=&quot;K2FeedFullText&quot;&gt;
+
+[row]
+	[column size=&quot;1/2&quot;]
+		[list icon=&quot;icon: check&quot; icon_color=&quot;#4cdc90&quot;]
+			&lt;ul&gt;
+				  &lt;li&gt;Lorem ipsum dolor sit amet consectetuer.&lt;/li&gt;
+				  &lt;li&gt;Aenean commodo ligula eget dolor.&lt;/li&gt;
+				  &lt;li&gt;Cras dapibus. Vivamus elementum semper.&lt;/li&gt;
+				  &lt;li&gt;Aenean imperdiet. Etiam ultricies nisi vel augue.&lt;/li&gt;
+				  &lt;li&gt;Maecenas nec odio et ante tincidunt tempus.&lt;/li&gt;
+				  &lt;li&gt;Donec sodales sagittis magna. Sed consequat, leo eget&lt;/li&gt;
+				  &lt;li&gt;Integer ante arcu, accumsan a, consectetuer eget.&lt;/li&gt;
+				  &lt;li&gt;Nunc nonummy metus. Vestibulum volutpat pretium.&lt;/li&gt;
+			&lt;/ul&gt;
+		[/list]
+	[/column]
+	
+	[column size=&quot;1/2&quot;]
+		[list icon=&quot;icon: check&quot; icon_color=&quot;#4cdc90&quot;]
+			&lt;ul&gt;
+				&lt;li&gt;Maecenas nec odio et ante tincidunt tempus.&lt;/li&gt;
+				&lt;li&gt;Donec sodales sagittis magna. Sed consequat, leo eget&lt;/li&gt;
+				&lt;li&gt;Integer ante arcu, accumsan a, consectetuer eget.&lt;/li&gt;
+				&lt;li&gt; Nunc nonummy metus. Vestibulum volutpat pretium.&lt;/li&gt;
+			 	&lt;li&gt;Lorem ipsum dolor sit amet consectetuer.&lt;/li&gt;
+				&lt;li&gt;Aenean commodo ligula eget dolor.&lt;/li&gt;
+				&lt;li&gt;Cras dapibus. Vivamus elementum semper.&lt;/li&gt;
+				&lt;liAenean imperdiet. Etiam ultricies nisi vel augue.&lt;/li&gt;
+			&lt;/ul&gt;
+		[/list]
+	[/column]	
+[/row]
+Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis. Etiam imperdiet imperdiet orci. Nunc nec neque. Phasellus leo dolor, tempus non, auctor et
+
+[row equal_height=&quot;yes&quot;]
+	[column size=&quot;1/3&quot;]
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/gallery/19.jpg&quot; alt=&quot;&quot;&gt;
+	[/column]
+	[column size=&quot;1/3&quot;]
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/gallery/20.jpg&quot; alt=&quot;&quot;&gt;
+	[/column]
+	[column size=&quot;1/3&quot;]
+		&lt;img src=&quot;https://bdthemes.net/demo/joomla/framed/images/sampledata/gallery/21.jpg&quot; alt=&quot;&quot;&gt;
+	[/column]
+[/row]&lt;/div&gt;</content>
+		<category term="Logo Design" />
+	</entry>
+</feed>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/shortcode-ultimate.css" type="text/css"?>
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/font-awesome.min.css" type="text/css"?>
+<?xml-stylesheet href="https://bdthemes.net/demo/joomla/framed/templates/framed/css/shortcodes.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Web Links</title>
+		<description><![CDATA[Framed Joomla Template is a high quality, simple, flat and clean template which build by Warp 7 Framework, also used lots of CSS3 effect with all modern browser supported.  You can use this template to different website, because it’s have live customizer with lots of admin customization features, so your website must be unique design. You can use this template for any kind of portfolio site, company, software firm, blog, personal website and more as you like…]]></description>
+		<link>https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/other-components/web-links/27-bdthemes-ltd</link>
+		<lastBuildDate>Mon, 02 Apr 2018 21:41:19 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/other-components/web-links/27-bdthemes-ltd?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>demo@bdthemes.com (Framed Joomla Template)</managingEditor>
+		<item>
+			<title>Beauty Salon Joomla Template</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/other-components/web-links/27-bdthemes-ltd/4</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/other-components/web-links/27-bdthemes-ltd/4</guid>
+			<description><![CDATA[]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>BDThemes Ltd</category>
+			<pubDate>Sat, 08 Mar 2014 13:06:12 +0000</pubDate>
+		</item>
+		<item>
+			<title>Beauty Salon Wordpress Template</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/other-components/web-links/27-bdthemes-ltd/5</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/other-components/web-links/27-bdthemes-ltd/5</guid>
+			<description><![CDATA[]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>BDThemes Ltd</category>
+			<pubDate>Sat, 08 Mar 2014 13:06:39 +0000</pubDate>
+		</item>
+		<item>
+			<title>Block Joomla Template</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/other-components/web-links/27-bdthemes-ltd/6</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/2014-02-26-10-03-40/other-components/web-links/27-bdthemes-ltd/6</guid>
+			<description><![CDATA[]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>BDThemes Ltd</category>
+			<pubDate>Sat, 08 Mar 2014 13:07:16 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

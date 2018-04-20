@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/shortcode-ultimate.css" type="text/css"?>
+<?xml-stylesheet href="/demo/joomla/framed/plugins/system/bdthemes_shortcodes/css/font-awesome.min.css" type="text/css"?>
+<?xml-stylesheet href="https://bdthemes.net/demo/joomla/framed/templates/framed/css/shortcodes.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Features</title>
+		<description><![CDATA[Framed Joomla Template is a high quality, simple, flat and clean template which build by Warp 7 Framework, also used lots of CSS3 effect with all modern browser supported.  You can use this template to different website, because it’s have live customizer with lots of admin customization features, so your website must be unique design. You can use this template for any kind of portfolio site, company, software firm, blog, personal website and more as you like…]]></description>
+		<link>https://bdthemes.net/demo/joomla/framed/index.php/features/32-timeline</link>
+		<lastBuildDate>Mon, 02 Apr 2018 22:00:55 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://bdthemes.net/demo/joomla/framed/index.php/features/32-timeline?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>demo@bdthemes.com (Framed Joomla Template)</managingEditor>
+		<item>
+			<title>Top Tech Trends From Igula egetCES 2014 || fa-rss</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/features/32-timeline/181-top-tech-trends-from-igula-egetces-2014-fa-rss</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/features/32-timeline/181-top-tech-trends-from-igula-egetces-2014-fa-rss</guid>
+			<description><![CDATA[<p><img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/timeline/8.jpg" /></p><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+
+<p>Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo</p>]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Timeline</category>
+			<pubDate>Mon, 14 Jul 2014 01:08:46 +0000</pubDate>
+		</item>
+		<item>
+			<title>Easy to surf with Shortcode Ultimate || fa-code</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/features/32-timeline/170-easy-to-surf-with-shortcode-ultimate-fa-code</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/features/32-timeline/170-easy-to-surf-with-shortcode-ultimate-fa-code</guid>
+			<description><![CDATA[[vimeo url="http://vimeo.com/16202331"]
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Timeline</category>
+			<pubDate>Fri, 11 Jul 2014 02:44:29 +0000</pubDate>
+		</item>
+		<item>
+			<title>Easy to use any type of video anywhere || fa-camera</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/features/32-timeline/171-easy-to-use-any-type-of-video-anywhere-fa-camera</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/features/32-timeline/171-easy-to-use-any-type-of-video-anywhere-fa-camera</guid>
+			<description><![CDATA[[youtube url="https://www.youtube.com/watch?v=v3f-2WG7ONc"]
+<p>Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Timeline</category>
+			<pubDate>Fri, 11 Jul 2014 02:44:29 +0000</pubDate>
+		</item>
+		<item>
+			<title>Blockquote example with shortcode ultimate || fa-quote-right</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/features/32-timeline/172-blockquote-example-with-shortcode-ultimate-fa-quote-right</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/features/32-timeline/172-blockquote-example-with-shortcode-ultimate-fa-quote-right</guid>
+			<description><![CDATA[[quote cite="John due" url="https://www.bdthemes.com"]Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus.[/quote]]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Timeline</category>
+			<pubDate>Fri, 11 Jul 2014 02:44:29 +0000</pubDate>
+		</item>
+		<item>
+			<title>5 Joomla Plugins to Better SEO Your Blog || fa-joomla</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/features/32-timeline/169-5-joomla-plugins-to-better-seo-your-blog-fa-joomla</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/features/32-timeline/169-5-joomla-plugins-to-better-seo-your-blog-fa-joomla</guid>
+			<description><![CDATA[<p><img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/timeline/9.jpg" /></p><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+
+<p>Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</p>]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Timeline</category>
+			<pubDate>Fri, 11 Jul 2014 00:29:28 +0000</pubDate>
+		</item>
+		<item>
+			<title>5 Top Ways to Drive Traffic to Your Commodo Blog || fa-random</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/features/32-timeline/168-5-top-ways-to-drive-traffic-to-your-commodo-blog-fa-random</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/features/32-timeline/168-5-top-ways-to-drive-traffic-to-your-commodo-blog-fa-random</guid>
+			<description><![CDATA[<p><img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/timeline/7.jpg" /></p><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+
+<p>Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo</p>]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Timeline</category>
+			<pubDate>Fri, 11 Jul 2014 00:25:27 +0000</pubDate>
+		</item>
+		<item>
+			<title>Want Your Blog Visitors to Stay? || fa-book</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/features/32-timeline/167-want-your-blog-visitors-to-stay-fa-book</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/features/32-timeline/167-want-your-blog-visitors-to-stay-fa-book</guid>
+			<description><![CDATA[<p><img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/timeline/4.jpg" /></p><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+
+<p>Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</p>]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Timeline</category>
+			<pubDate>Fri, 11 Jul 2014 00:22:34 +0000</pubDate>
+		</item>
+		<item>
+			<title>How To Be An Effective In-house SEO || fa-search</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/features/32-timeline/166-how-to-be-an-effective-in-house-seo-fa-search</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/features/32-timeline/166-how-to-be-an-effective-in-house-seo-fa-search</guid>
+			<description><![CDATA[<p><img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/timeline/13.jpg" /></p><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+
+<p>Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</p>]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Timeline</category>
+			<pubDate>Fri, 11 Jul 2014 00:01:18 +0000</pubDate>
+		</item>
+		<item>
+			<title>Want Your Blog Visitors to Stay?Aliquam Say It! || fa-pencil</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/features/32-timeline/174-want-your-blog-visitors-to-stay-aliquam-say-it-fa-pencil</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/features/32-timeline/174-want-your-blog-visitors-to-stay-aliquam-say-it-fa-pencil</guid>
+			<description><![CDATA[<p><img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/timeline/4.jpg" /></p><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+
+<p>Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo</p>]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Timeline</category>
+			<pubDate>Tue, 02 Jul 2013 00:45:41 +0000</pubDate>
+		</item>
+		<item>
+			<title>How To Be An Effective In-house SEO enim justo || fa-spinner</title>
+			<link>https://bdthemes.net/demo/joomla/framed/index.php/features/32-timeline/173-how-to-be-an-effective-in-house-seo-enim-justo-fa-spinner</link>
+			<guid isPermaLink="true">https://bdthemes.net/demo/joomla/framed/index.php/features/32-timeline/173-how-to-be-an-effective-in-house-seo-enim-justo-fa-spinner</guid>
+			<description><![CDATA[<p><img src="https://bdthemes.net/demo/joomla/framed/images/sampledata/timeline/13.jpg" /></p><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+
+<p>Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo</p>]]></description>
+			<author>demo@bdthemes.com (Super User)</author>
+			<category>Timeline</category>
+			<pubDate>Wed, 02 Jan 2013 01:40:17 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
